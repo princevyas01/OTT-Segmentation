@@ -1,0 +1,26 @@
+[
+  {
+    "Cluster": "Premium Users",
+    "movies": "Award-winning Originals, Early-access releases",
+    "series": "Exclusive Originals, International binge-worthy series",
+    "plan": "Retain Premium users with annual subscription offers and loyalty rewards."
+  },
+  {
+    "Cluster": "Casual Users",
+    "movies": "Short comedies, Trending movies",
+    "series": "Short episodes, Mobile-friendly content",
+    "plan": "Recommend Basic Plan with ads and offer discounted Standard trial."
+  },
+  {
+    "Cluster": "Action Movie Lovers",
+    "movies": "Action blockbusters, Thrillers, Sci-Fi franchises",
+    "series": "Crime & Spy series, Short-season Action shows",
+    "plan": "Upgrade Standard users with a Premium (4K) free trial."
+  },
+  {
+    "Cluster": "Family Viewers",
+    "movies": "Family dramas, Animation, Comedy movies",
+    "series": "Family dramas, Kids & Teen shows",
+    "plan": "Recommend Standard Family Plan with multiple profiles and parental controls."
+  }
+]
