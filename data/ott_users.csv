@@ -1,0 +1,1011 @@
+UserID,Age,Gender,WatchTime,MoviesWatched,SeriesWatched,FavoriteGenre,AvgRating,SubscriptionType,LoginFrequency,DeviceType,EngagementScore
+U0001,33.0,Female,13.1,14,19,Family,3.7,Standard,4.2,Smart TV,36.3
+U0002,14.0,Female,6.7,3,2,Comedy,3.1,Basic,1.3,Mobile,18.3
+U0003,28.0,Male,12.4,18,22,Family,3.2,Basic,3.5,Smart TV,40.9
+U0004,33.0,Female,14.7,12,20,Kids,2.9,Standard,4.4,Laptop,37.3
+U0005,35.0,Male,17.2,38,7,Action,3.3,Basic,8.5,Laptop,64.1
+U0006,29.0,Male,7.0,1,0,Drama,3.0,Basic,1.8,Mobile,15.4
+U0007,31.0,Female,25.2,25,17,Thriller,3.0,Standard,4.4,Mobile,63.0
+U0008,40.0,Female,1.2,5,0,Drama,3.1,Standard,0.7,Mobile,8.5
+U0009,44.0,Female,19.7,5,18,Drama,3.9,Standard,5.3,Smart TV,45.3
+U0010,16.0,Male,23.3,39,6,Action,3.4,Standard,4.6,Smart TV,61.7
+U0011,,Male,16.3,8,18,Drama,3.6,Basic,6.6,Smart TV,45.7
+U0012,21.0,Male,13.1,25,9,Sci-Fi,2.7,Standard,6.6,Mobile,45.4
+U0013,22.0,Male,1.1,2,4,Comedy,3.8,Standard,0.9,Mobile,1.0
+U0014,42.0,Female,19.7,13,24,Family,3.4,Premium,4.9,Smart TV,48.0
+U0015,32.0,Male,8.2,5,1,Drama,3.6,Basic,0.9,Laptop,15.3
+U0016,22.0,Male,29.6,28,6,Thriller,4.0,Premium,5.5,Smart TV,67.7
+U0017,,Male,11.5,24,7,Thriller,4.2,Standard,5.0,Laptop,39.7
+U0018,17.0,Male,25.6,34,6,Action,4.1,Standard,5.3,Mobile,62.9
+U0019,32.0,Female,24.6,31,30,Action,3.7,Premium,10.6,Smart TV,84.4
+U0020,28.0,Female,18.0,15,26,Drama,4.0,Standard,3.4,Mobile,53.0
+U0021,28.0,Female,34.2,29,21,Drama,3.7,Premium,10.4,Mobile,90.5
+U0022,43.0,Male,15.7,12,26,Kids,3.1,Standard,4.8,Smart TV,45.1
+U0023,34.0,Female,36.5,29,32,Sci-Fi,4.6,Premium,10.1,Smart TV,100.0
+U0024,36.0,Female,11.8,8,23,Family,3.0,Standard,5.1,Smart TV,43.6
+U0025,37.0,Male,14.6,12,25,Drama,3.0,Basic,3.6,Smart TV,43.6
+U0026,24.0,Male,23.3,35,3,Action,3.1,Premium,5.0,Smart TV,55.2
+U0027,26.0,Male,17.0,29,3,Action,3.6,Standard,4.9,Mobile,49.5
+U0028,38.0,Male,49.7,24,34,Action,4.7,Premium,9.0,Smart TV,100.0
+U0029,23.0,Other,37.8,11,27,Sci-Fi,4.8,Premium,8.9,Smart TV,95.0
+U0030,55.0,Male,20.1,11,15,Family,3.4,Standard,1.9,Mobile,44.8
+U0031,25.0,Female,4.1,6,3,Family,2.7,Basic,1.6,Mobile,15.8
+U0032,35.0,Male,35.7,31,33,Drama,3.4,Premium,7.2,Smart TV,95.9
+U0033,35.0,Female,38.4,25,29,Drama,3.4,Premium,7.3,Laptop,94.9
+U0034,44.0,Male,14.9,18,12,Family,3.1,Premium,2.1,Smart TV,37.2
+U0035,42.0,Female,19.0,8,19,Drama,4.2,Standard,3.0,Smart TV,44.8
+U0036,21.0,Male,23.1,38,9,Action,3.6,Standard,8.4,Smart TV,81.3
+U0037,22.0,Male,22.7,32,17,Action,3.3,Standard,7.3,Mobile,72.1
+U0038,31.0,Male,33.7,27,21,Sci-Fi,4.0,Premium,10.3,Laptop,96.8
+U0039,37.0,Male,38.6,28,34,Action,4.2,Premium,10.9,Laptop,100.0
+U0040,26.0,Female,31.0,21,24,Sci-Fi,3.8,Premium,8.3,Smart TV,85.6
+U0041,32.0,Female,6.6,4,3,Family,3.2,Standard,1.2,Mobile,13.4
+U0042,28.0,Male,36.0,20,24,Drama,3.9,Premium,7.5,Smart TV,84.5
+U0043,25.0,Female,27.5,27,3,Sci-Fi,3.9,Basic,6.7,Smart TV,61.4
+U0044,26.0,Female,29.9,32,10,Action,4.3,Standard,7.9,Laptop,80.5
+U0045,14.0,Male,23.7,31,9,Thriller,2.6,Standard,6.9,Laptop,64.5
+U0046,18.0,Female,28.9,24,34,Sci-Fi,3.7,Premium,9.2,Smart TV,80.7
+U0047,43.0,Male,15.9,16,26,Drama,4.2,Standard,5.4,Laptop,47.0
+U0048,29.0,Female,21.1,31,9,Sci-Fi,3.4,Basic,8.0,Smart TV,59.5
+U0049,39.0,Male,14.9,8,19,Family,4.2,Standard,6.3,Smart TV,49.2
+U0050,29.0,Female,6.7,4,3,Drama,3.6,Basic,0.6,Laptop,14.1
+U0051,50.0,Female,36.1,29,24,Sci-Fi,3.9,Premium,8.7,Laptop,88.1
+U0052,28.0,Female,18.3,25,8,Action,3.6,Premium,7.3,Smart TV,62.6
+U0053,44.0,Other,48.4,34,27,Action,3.6,Premium,11.1,Laptop,100.0
+U0054,17.0,Male,12.0,39,6,Action,4.2,Standard,6.2,Laptop,42.4
+U0055,,Male,21.8,30,5,Action,5.0,Standard,6.8,Laptop,54.3
+U0056,38.0,Male,13.4,12,17,Family,3.4,Premium,2.7,Smart TV,36.8
+U0057,40.0,Female,6.8,8,0,Comedy,3.9,Standard,1.1,Mobile,13.9
+U0058,23.0,Female,40.5,27,30,Drama,3.4,Standard,9.3,Smart TV,100.0
+U0059,44.0,Female,20.8,18,29,Family,3.5,Premium,4.2,Smart TV,61.1
+U0060,14.0,Female,30.2,24,33,Sci-Fi,3.5,Premium,10.0,Smart TV,90.0
+U0061,21.0,Male,12.3,12,22,Family,3.1,Standard,5.0,Smart TV,41.1
+U0062,19.0,Female,27.2,26,12,Sci-Fi,3.8,Basic,5.9,Smart TV,71.8
+U0063,61.0,Female,17.0,11,19,Family,3.3,Basic,4.7,Mobile,43.2
+U0064,26.0,Other,32.9,17,28,Action,4.1,Premium,6.5,Smart TV,74.0
+U0065,16.0,Female,5.9,1,3,Drama,3.4,Basic,0.4,Mobile,6.1
+U0066,41.0,Female,8.8,4,2,Comedy,4.5,Basic,0.6,Mobile,15.8
+U0067,48.0,Female,15.1,10,21,Comedy,4.0,Premium,1.5,Smart TV,32.1
+U0068,14.0,Other,6.4,7,3,Family,2.5,Basic,2.3,Laptop,16.9
+U0069,37.0,Male,17.3,0,32,Drama,3.3,Standard,4.7,Laptop,55.6
+U0070,23.0,Male,29.7,31,4,Action,4.5,Premium,3.9,Mobile,70.8
+U0071,37.0,Male,28.1,34,23,Drama,,Premium,9.0,Smart TV,81.0
+U0072,38.0,Female,16.4,11,19,Family,3.1,Standard,2.3,Smart TV,38.1
+U0073,27.0,Female,21.7,30,11,Action,3.5,Standard,7.8,Laptop,65.3
+U0074,17.0,Male,5.7,1,4,Action,4.1,Basic,1.6,Mobile,15.9
+U0075,36.0,Male,17.6,13,17,Comedy,2.8,Standard,5.0,Smart TV,48.3
+U0076,26.0,Male,20.8,23,7,Action,3.1,Basic,7.6,Mobile,57.2
+U0077,24.0,Female,27.1,34,7,Sci-Fi,3.4,Standard,5.3,Laptop,68.0
+U0078,28.0,Female,0.5,4,4,Drama,3.2,Basic,2.0,Mobile,5.3
+U0079,42.0,Male,13.7,10,10,Drama,4.1,Standard,5.0,Smart TV,37.5
+U0080,36.0,Female,,23,24,Thriller,4.9,Standard,5.5,Laptop,82.4
+U0081,31.0,Female,23.9,30,8,Sci-Fi,3.4,Standard,5.9,Smart TV,60.8
+U0082,32.0,Male,38.1,28,18,Action,4.0,Premium,8.0,Smart TV,89.2
+U0083,22.0,Female,5.6,1,4,Family,3.1,Basic,1.6,Mobile,13.6
+U0084,29.0,Female,3.1,4,3,Action,3.6,Basic,0.3,Mobile,7.1
+U0085,14.0,Male,10.5,5,3,Family,4.0,Basic,0.7,Mobile,13.8
+U0086,41.0,Female,5.0,5,3,Action,4.0,Standard,1.0,Mobile,9.1
+U0087,40.0,Male,20.4,9,20,Drama,3.5,Basic,4.0,Laptop,47.6
+U0088,46.0,Male,9.1,8,1,Comedy,3.0,Basic,1.7,Mobile,19.3
+U0089,38.0,Female,41.5,22,23,Sci-Fi,4.2,Premium,11.7,Smart TV,100.0
+U0090,48.0,Female,10.0,9,19,Drama,3.7,Standard,4.5,Mobile,40.3
+U0091,36.0,Male,31.5,25,41,Sci-Fi,3.7,Standard,7.8,Mobile,100.0
+U0092,26.0,Male,,32,7,Action,4.1,Basic,5.7,Mobile,61.5
+U0093,52.0,Other,20.6,13,22,Drama,2.7,Standard,3.5,Smart TV,52.6
+U0094,21.0,Female,8.0,6,3,Family,3.1,Basic,2.3,Mobile,13.5
+U0095,31.0,Male,19.1,7,21,Drama,3.6,Basic,3.8,Smart TV,50.9
+U0096,43.0,Female,28.4,26,10,Sci-Fi,4.7,Standard,7.3,Smart TV,75.8
+U0097,28.0,Male,39.9,22,31,Thriller,3.9,Premium,8.9,Smart TV,95.8
+U0098,44.0,Female,38.5,28,18,Sci-Fi,4.2,Standard,10.0,Laptop,100.0
+U0099,18.0,Male,25.9,34,10,Action,3.8,Premium,3.7,Smart TV,63.2
+U0100,30.0,Male,23.8,25,7,Action,3.1,Premium,3.7,Mobile,52.0
+U0101,36.0,Male,15.1,19,15,Drama,3.6,Standard,4.0,Smart TV,44.9
+U0102,23.0,Female,17.1,17,8,Sci-Fi,3.4,Basic,4.8,Smart TV,43.3
+U0103,17.0,Male,7.0,3,0,Drama,3.1,Standard,2.0,Mobile,11.2
+U0104,33.0,Male,23.0,23,6,Thriller,2.5,Standard,6.2,Laptop,60.5
+U0105,41.0,Female,23.4,8,7,Family,3.9,Basic,3.5,Smart TV,48.3
+U0106,14.0,Female,6.8,0,2,Family,3.5,Basic,2.6,Mobile,21.7
+U0107,20.0,Male,23.8,41,12,Thriller,3.1,Standard,8.7,Laptop,79.1
+U0108,31.0,Male,17.8,20,20,Family,3.7,Standard,6.9,Smart TV,57.9
+U0109,25.0,Female,17.2,37,12,Action,4.1,Premium,4.5,Laptop,51.9
+U0110,22.0,Female,2.2,2,2,Action,4.1,Standard,2.0,Mobile,4.9
+U0111,54.0,Female,14.9,13,18,Drama,2.8,Basic,5.0,Mobile,43.1
+U0112,17.0,Female,2.0,2,3,Family,2.9,Basic,1.5,Mobile,6.0
+U0113,27.0,Male,5.4,1,5,Drama,3.4,Standard,1.5,Smart TV,20.3
+U0114,34.0,Male,21.1,23,9,Action,2.9,Basic,6.8,Smart TV,62.2
+U0115,53.0,Other,5.4,6,1,Comedy,2.8,Basic,1.3,Mobile,12.0
+U0116,,Female,19.7,32,5,Action,3.9,Standard,6.8,Mobile,47.2
+U0117,36.0,Male,35.3,24,14,Drama,3.6,Premium,9.2,Laptop,86.2
+U0118,54.0,Male,17.2,10,9,Family,3.6,Standard,4.1,Mobile,42.8
+U0119,18.0,Female,20.7,15,5,Sci-Fi,2.2,Standard,7.8,Mobile,57.2
+U0120,28.0,Female,6.5,5,0,Comedy,3.7,Basic,1.3,Mobile,12.9
+U0121,27.0,Female,20.8,25,9,Action,3.6,Basic,6.4,Smart TV,56.7
+U0122,26.0,Female,12.8,7,22,Comedy,3.1,Standard,4.7,Smart TV,39.8
+U0123,27.0,Male,17.9,33,11,Sci-Fi,3.2,Standard,5.8,Mobile,52.5
+U0124,24.0,Female,22.5,31,10,Action,3.6,Standard,6.8,Smart TV,61.1
+U0125,44.0,Male,20.2,6,28,Drama,2.3,Standard,4.2,Smart TV,49.9
+U0126,44.0,Female,20.0,21,30,Action,3.7,Premium,6.7,Mobile,64.6
+U0127,24.0,Other,,6,3,Family,4.6,Standard,0.3,Mobile,17.1
+U0128,36.0,Male,27.7,32,28,Thriller,4.3,Premium,11.3,Smart TV,94.8
+U0129,24.0,Female,34.3,24,25,Action,3.7,Premium,9.2,Laptop,89.8
+U0130,39.0,Female,38.5,30,27,Thriller,4.2,Premium,10.0,Smart TV,100.0
+U0131,41.0,Male,24.2,32,30,Action,3.5,Premium,9.1,Smart TV,75.7
+U0132,23.0,Female,23.5,29,7,Action,3.6,Basic,7.1,Mobile,60.3
+U0133,27.0,Female,28.6,24,22,Sci-Fi,4.5,Premium,7.4,Mobile,72.1
+U0134,26.0,Female,28.1,29,6,Thriller,3.9,Premium,5.5,Mobile,67.7
+U0135,18.0,Male,9.0,4,1,Comedy,4.3,Basic,1.1,Mobile,20.3
+U0136,24.0,Other,7.2,5,3,Comedy,3.7,Standard,0.9,Mobile,15.1
+U0137,22.0,Female,6.5,2,1,Drama,3.7,Basic,1.5,Mobile,16.2
+U0138,15.0,Male,6.0,3,3,Action,3.2,Basic,0.7,Mobile,11.0
+U0139,24.0,Male,11.8,6,26,Family,3.3,Standard,6.9,Smart TV,41.6
+U0140,32.0,Female,6.1,6,2,Comedy,3.3,Basic,0.9,Laptop,9.1
+U0141,23.0,Female,21.2,25,4,Action,3.8,Premium,6.8,Mobile,51.6
+U0142,25.0,Male,20.1,32,6,Thriller,3.3,Premium,6.0,Smart TV,64.2
+U0143,40.0,Male,5.2,5,4,Drama,3.0,Basic,1.7,Mobile,15.9
+U0144,38.0,Female,8.1,15,16,Drama,2.8,Standard,4.0,Smart TV,30.2
+U0145,23.0,Female,18.4,24,14,Action,4.0,Basic,6.4,Mobile,54.6
+U0146,35.0,Female,18.2,9,19,Drama,3.7,Standard,4.2,Mobile,48.5
+U0147,40.0,Female,13.8,12,17,Family,3.4,Premium,4.9,Smart TV,38.9
+U0148,39.0,Male,3.7,5,2,Drama,3.4,Basic,2.8,Smart TV,16.0
+U0149,28.0,Female,33.4,31,22,Drama,3.9,Premium,7.4,Smart TV,89.4
+U0150,27.0,Male,23.8,27,29,Thriller,4.2,Premium,7.0,Smart TV,71.4
+U0151,40.0,Female,9.1,7,22,Family,3.6,Standard,6.0,Mobile,41.7
+U0152,17.0,Female,6.9,2,5,Drama,3.8,Basic,2.6,Smart TV,16.1
+U0153,21.0,Female,19.7,30,9,Action,3.9,Basic,6.7,Mobile,58.8
+U0154,,Female,23.3,18,14,Drama,3.3,Premium,9.6,Mobile,75.9
+U0155,26.0,Male,18.9,26,9,Thriller,3.8,Standard,7.1,Laptop,51.6
+U0156,35.0,Female,,15,29,Sci-Fi,4.4,Premium,12.9,Laptop,100.0
+U0157,42.0,Female,31.2,21,30,Action,4.5,Premium,10.2,Laptop,87.2
+U0158,36.0,Female,41.4,20,29,Thriller,4.0,Premium,10.5,Smart TV,100.0
+U0159,31.0,Female,18.2,32,9,Action,4.1,Standard,5.1,Mobile,57.7
+U0160,35.0,Female,22.0,34,5,Comedy,3.2,Standard,7.1,Smart TV,68.3
+U0161,19.0,Male,20.9,21,6,Action,2.9,Standard,7.4,Laptop,58.8
+U0162,26.0,Male,17.5,28,11,Thriller,2.9,Basic,4.8,Mobile,54.3
+U0163,25.0,Other,20.7,27,10,Action,4.0,Premium,3.4,Laptop,48.8
+U0164,40.0,Female,35.4,23,14,Drama,3.7,Premium,7.8,Smart TV,80.9
+U0165,27.0,Male,3.6,4,4,Comedy,4.1,Basic,0.4,Mobile,8.0
+U0166,47.0,Female,22.5,12,15,Drama,2.7,Standard,3.2,Smart TV,44.6
+U0167,27.0,Male,19.9,30,6,Action,3.6,Standard,5.6,Mobile,52.8
+U0168,31.0,Female,34.6,24,28,Thriller,3.7,Premium,8.0,Smart TV,89.8
+U0169,15.0,Female,6.6,6,2,Drama,2.8,Basic,2.5,Mobile,13.5
+U0170,20.0,Male,24.1,36,8,Action,3.5,Basic,9.5,Laptop,76.8
+U0171,28.0,Male,20.5,27,9,Action,3.4,Standard,6.9,Mobile,63.4
+U0172,18.0,Male,20.9,29,7,Action,4.1,Standard,6.3,Smart TV,54.6
+U0173,34.0,Female,17.5,8,24,Drama,3.8,Basic,4.4,Laptop,43.4
+U0174,48.0,Male,11.6,8,11,Family,2.5,Standard,3.1,Smart TV,27.3
+U0175,,Male,43.4,23,24,Action,4.6,Premium,7.4,Smart TV,100.0
+U0176,21.0,Female,22.9,18,7,Action,3.5,Standard,6.0,Laptop,54.3
+U0177,27.0,Female,19.6,37,6,Action,3.4,Standard,7.0,Mobile,61.8
+U0178,20.0,Female,19.9,4,23,Comedy,2.6,Basic,6.3,Smart TV,60.9
+U0179,14.0,Female,7.6,3,1,Action,3.7,Basic,1.3,Mobile,15.5
+U0180,24.0,Male,2.4,1,1,Comedy,3.6,Standard,1.9,Mobile,12.9
+U0181,31.0,Male,29.9,39,5,Action,3.9,Basic,5.5,Laptop,81.5
+U0182,23.0,Male,18.1,19,5,Action,3.5,Standard,6.4,Mobile,50.6
+U0183,28.0,Male,4.3,5,5,Comedy,3.2,Basic,0.9,Mobile,20.5
+U0184,43.0,Male,40.9,28,40,Sci-Fi,5.0,Premium,8.5,Mobile,100.0
+U0185,41.0,Male,16.1,10,25,Family,3.8,Standard,2.8,Smart TV,50.6
+U0186,49.0,Female,17.5,13,22,Drama,4.0,Standard,6.3,Smart TV,47.3
+U0187,26.0,Male,17.0,19,8,Action,3.3,Standard,5.8,Mobile,57.4
+U0188,19.0,Male,17.1,31,10,Sci-Fi,3.6,Standard,5.8,Mobile,55.9
+U0189,39.0,Female,38.3,34,20,Action,3.4,Premium,9.0,Smart TV,96.2
+U0190,14.0,Other,3.0,3,3,Comedy,2.9,Standard,1.4,Mobile,5.6
+U0191,18.0,Female,34.0,29,15,Action,3.9,Premium,8.7,Smart TV,91.1
+U0192,21.0,Female,4.1,5,5,Action,3.2,Standard,1.3,Mobile,13.0
+U0193,15.0,Female,21.8,27,7,Sci-Fi,2.8,Standard,9.0,Laptop,69.8
+U0194,29.0,Female,44.3,21,20,Action,4.5,Premium,11.4,Smart TV,100.0
+U0195,14.0,Female,9.1,5,2,Family,4.0,Basic,0.5,Mobile,18.4
+U0196,45.0,Male,20.4,13,21,Family,3.5,Standard,3.1,Smart TV,49.6
+U0197,22.0,Male,10.9,4,1,Comedy,3.5,Basic,1.0,Mobile,17.2
+U0198,37.0,Female,25.7,29,25,Sci-Fi,4.3,Premium,10.3,Smart TV,71.1
+U0199,33.0,Female,30.8,24,28,Thriller,3.8,Premium,8.5,Laptop,78.8
+U0200,27.0,Female,10.1,25,8,Action,3.7,Premium,5.7,Mobile,44.3
+U0201,25.0,Male,16.3,9,14,Drama,3.8,Basic,3.4,Smart TV,41.2
+U0202,38.0,Male,3.2,1,0,Comedy,3.5,Basic,1.7,Mobile,15.1
+U0203,31.0,Male,5.9,5,3,Comedy,3.7,Basic,1.9,Mobile,12.6
+U0204,24.0,Male,34.1,32,6,Action,3.0,Standard,6.7,Mobile,78.0
+U0205,49.0,Male,23.6,10,15,Drama,2.8,Basic,2.8,Smart TV,55.1
+U0206,16.0,Female,31.4,23,22,Sci-Fi,4.0,Standard,8.7,Laptop,80.2
+U0207,24.0,Male,17.8,22,5,Sci-Fi,4.0,Standard,5.5,Mobile,44.2
+U0208,41.0,Female,20.0,11,16,Drama,3.7,Premium,2.5,Smart TV,47.2
+U0209,43.0,Male,18.7,11,20,Drama,3.2,Standard,3.1,Laptop,47.7
+U0210,26.0,Female,3.3,0,3,Comedy,,Basic,1.6,Smart TV,14.1
+U0211,43.0,Female,31.2,35,25,Thriller,3.8,Premium,9.1,Smart TV,90.9
+U0212,29.0,Female,11.7,5,18,Family,4.4,Basic,4.9,Smart TV,41.1
+U0213,14.0,Female,6.4,5,3,Comedy,3.9,Basic,1.3,Mobile,11.6
+U0214,35.0,Female,11.6,18,20,Drama,3.2,Standard,3.3,Smart TV,34.8
+U0215,40.0,Male,3.5,4,3,Action,3.5,Basic,0.2,Laptop,9.1
+U0216,41.0,Male,15.4,9,25,Comedy,2.8,Standard,4.9,Laptop,45.2
+U0217,,Male,17.6,7,21,Family,3.7,Basic,2.4,Mobile,38.4
+U0218,23.0,Female,13.4,27,5,Action,2.9,Standard,7.9,Laptop,58.6
+U0219,17.0,Female,1.5,4,2,Comedy,3.3,Basic,1.0,Smart TV,11.3
+U0220,18.0,Male,13.3,30,6,Action,3.4,Standard,8.8,Smart TV,62.5
+U0221,44.0,Female,15.0,5,12,Comedy,3.5,Premium,3.3,Mobile,33.5
+U0222,56.0,Male,2.9,4,1,Action,3.4,Basic,1.5,Mobile,4.2
+U0223,32.0,Female,21.2,9,25,Family,4.1,Standard,2.4,Laptop,45.4
+U0224,40.0,Male,3.1,0,1,Comedy,2.9,Standard,0.9,Mobile,7.9
+U0225,31.0,Male,23.6,22,25,Action,3.7,Premium,5.8,Smart TV,63.6
+U0226,34.0,Female,3.5,5,3,Action,3.7,Standard,0.4,Mobile,2.8
+U0227,21.0,Male,20.7,20,5,Thriller,4.8,Standard,4.7,Mobile,57.9
+U0228,41.0,Female,32.5,30,29,Thriller,3.9,Premium,9.6,Mobile,89.1
+U0229,38.0,Female,6.2,3,1,Comedy,4.2,Basic,1.9,Smart TV,9.1
+U0230,35.0,Female,5.4,6,4,Family,3.7,Basic,2.4,Laptop,16.5
+U0231,23.0,Female,23.1,37,16,Action,4.3,Premium,5.1,Smart TV,64.6
+U0232,19.0,Female,16.2,22,13,Comedy,3.5,Standard,5.3,Mobile,47.4
+U0233,22.0,Male,0.7,0,1,Drama,3.9,Basic,1.6,Mobile,1.0
+U0234,35.0,Male,12.2,20,19,Family,4.2,Standard,6.5,Laptop,41.4
+U0235,22.0,Male,46.9,29,33,Drama,3.9,Premium,10.6,Smart TV,100.0
+U0236,23.0,Female,6.1,3,3,Comedy,3.2,Basic,1.9,Mobile,18.4
+U0237,54.0,Female,25.4,11,21,Family,3.5,Basic,4.5,Mobile,55.7
+U0238,34.0,Female,29.5,26,18,Action,3.9,Premium,9.3,Smart TV,84.6
+U0239,24.0,Female,15.3,34,2,Action,4.3,Standard,6.3,Smart TV,53.1
+U0240,25.0,Male,20.1,21,9,Action,2.9,Standard,5.7,Laptop,50.0
+U0241,47.0,Male,31.6,26,15,Thriller,3.5,Standard,10.2,Smart TV,93.2
+U0242,26.0,Male,17.7,30,6,Action,4.5,Basic,5.8,Laptop,52.1
+U0243,47.0,Female,12.2,10,21,Drama,3.5,Standard,5.7,Smart TV,47.6
+U0244,39.0,Male,28.5,30,33,Action,3.9,Standard,10.6,Smart TV,94.0
+U0245,16.0,Male,39.1,31,18,Thriller,3.7,Premium,7.2,Smart TV,92.0
+U0246,42.0,Female,15.0,12,24,Family,3.4,Standard,5.3,Mobile,47.9
+U0247,34.0,Female,,3,0,Comedy,2.8,Basic,2.2,Mobile,11.1
+U0248,33.0,Female,18.3,5,4,Drama,3.5,Standard,4.9,Laptop,47.5
+U0249,23.0,Male,13.2,30,11,Comedy,2.4,Basic,6.0,Mobile,47.9
+U0250,31.0,Female,31.7,34,17,Thriller,4.1,Premium,9.3,Smart TV,94.6
+U0251,35.0,Male,20.6,11,12,Family,3.4,Standard,5.2,Laptop,52.6
+U0252,28.0,Female,15.4,34,5,Sci-Fi,3.7,Standard,5.1,Smart TV,46.8
+U0253,28.0,Male,26.5,34,8,Sci-Fi,3.5,Standard,4.0,Mobile,58.6
+U0254,,Female,33.4,31,26,Thriller,4.2,Premium,8.7,Mobile,88.2
+U0255,25.0,Male,6.8,0,4,Family,3.2,Basic,0.2,Laptop,6.1
+U0256,30.0,Male,30.8,30,24,Drama,4.4,Premium,9.1,Laptop,90.9
+U0257,20.0,Male,4.4,4,0,Comedy,4.2,Basic,1.0,Mobile,6.4
+U0258,24.0,Female,0.5,3,3,Comedy,4.2,Basic,2.8,Mobile,5.5
+U0259,19.0,Male,7.8,1,3,Comedy,3.9,Basic,0.2,Laptop,6.2
+U0260,34.0,Male,13.5,17,18,Drama,3.8,Standard,3.5,Smart TV,32.5
+U0261,21.0,Male,31.2,28,9,Thriller,4.3,Basic,3.8,Smart TV,63.0
+U0262,26.0,Male,3.0,3,3,Drama,3.3,Basic,0.7,Mobile,6.5
+U0263,27.0,Male,26.6,33,13,Sci-Fi,3.0,Standard,4.9,Mobile,61.6
+U0264,30.0,Female,15.6,31,12,Thriller,3.5,Standard,6.2,Mobile,54.6
+U0265,37.0,Male,3.2,3,3,Drama,3.8,Basic,2.2,Mobile,8.4
+U0266,50.0,Male,15.0,15,26,Kids,3.2,Basic,3.2,Smart TV,44.4
+U0267,41.0,Male,19.7,15,19,Family,3.7,Standard,5.7,Smart TV,57.4
+U0268,42.0,Female,15.8,8,20,Family,3.1,Basic,3.7,Smart TV,45.6
+U0269,47.0,Male,20.3,21,15,Family,3.2,Basic,2.8,Smart TV,54.0
+U0270,31.0,Female,26.8,31,6,Action,3.7,Standard,7.0,Smart TV,69.8
+U0271,39.0,Male,25.9,9,18,Drama,3.8,Standard,3.3,Smart TV,55.8
+U0272,22.0,Female,36.5,22,6,Action,4.6,Standard,6.5,Mobile,75.1
+U0273,32.0,Female,7.3,7,0,Action,3.9,Basic,0.8,Mobile,4.0
+U0274,22.0,Male,26.7,40,9,Thriller,3.2,Premium,5.4,Mobile,68.4
+U0275,28.0,Male,5.0,3,1,Drama,2.8,Standard,1.1,Laptop,8.2
+U0276,30.0,Female,28.7,26,21,Drama,3.1,Premium,7.4,Laptop,71.2
+U0277,14.0,Female,6.4,4,3,Drama,2.8,Basic,0.3,Mobile,8.7
+U0278,44.0,Male,19.9,26,24,Sci-Fi,4.7,Premium,10.7,Smart TV,69.3
+U0279,26.0,Male,31.6,25,26,Thriller,4.8,Premium,8.0,Smart TV,85.5
+U0280,38.0,Female,15.8,8,16,Drama,3.8,Standard,3.1,Smart TV,37.6
+U0281,32.0,Male,42.2,27,14,Action,3.4,Premium,4.5,Smart TV,84.9
+U0282,14.0,Male,3.7,4,0,Comedy,2.7,Standard,1.7,Mobile,7.4
+U0283,23.0,Other,17.8,23,9,Action,4.2,Standard,6.6,Mobile,58.6
+U0284,27.0,Male,26.0,20,6,Thriller,3.4,Premium,7.0,Mobile,58.8
+U0285,40.0,Male,16.8,5,17,Drama,2.9,Standard,5.4,Mobile,37.6
+U0286,19.0,Male,18.8,26,6,Action,4.1,Standard,4.2,Mobile,48.8
+U0287,14.0,Male,5.1,6,1,Action,3.9,Basic,0.2,Mobile,7.7
+U0288,21.0,Male,31.8,22,5,Action,3.2,Premium,8.2,Mobile,72.0
+U0289,41.0,Male,17.0,15,13,Family,2.7,Standard,2.7,Smart TV,43.9
+U0290,29.0,Female,3.5,5,5,Family,3.9,Standard,1.5,Mobile,14.4
+U0291,23.0,Male,31.8,19,31,Drama,3.6,Premium,8.9,Mobile,86.4
+U0292,17.0,Male,24.9,32,8,Action,3.7,Premium,4.8,Mobile,61.0
+U0293,41.0,Female,12.7,7,21,Drama,3.9,Premium,4.2,Laptop,41.0
+U0294,36.0,Male,28.1,35,28,Action,4.3,Premium,8.6,Smart TV,84.2
+U0295,14.0,Female,4.0,5,3,Action,3.1,Standard,0.2,Mobile,2.7
+U0296,42.0,Male,12.7,13,23,Family,2.8,Standard,2.5,Smart TV,42.8
+U0297,33.0,Male,19.6,13,28,Kids,3.6,Premium,2.2,Smart TV,47.9
+U0298,23.0,Male,28.1,28,2,Action,3.2,Premium,6.0,Smart TV,64.8
+U0299,29.0,Other,23.1,10,17,Family,3.4,Premium,5.9,Smart TV,60.9
+U0300,34.0,Female,17.6,13,18,Drama,3.5,Standard,3.4,Smart TV,48.7
+U0301,34.0,Female,33.2,38,22,Action,4.3,Premium,10.1,Smart TV,90.7
+U0302,,Female,36.8,22,20,Action,3.8,Premium,10.1,Mobile,83.4
+U0303,36.0,Female,24.5,37,22,Thriller,3.3,Premium,8.3,Laptop,72.6
+U0304,31.0,Male,4.5,1,0,Family,3.8,Basic,0.2,Mobile,2.6
+U0305,25.0,Female,34.8,32,13,Drama,4.2,Premium,8.2,Mobile,75.2
+U0306,37.0,Male,15.8,17,29,Drama,3.4,Basic,4.5,Mobile,59.5
+U0307,,Female,10.8,1,2,Action,3.1,Basic,0.9,Mobile,15.9
+U0308,28.0,Female,30.9,32,10,Thriller,3.3,Standard,4.9,Mobile,72.5
+U0309,28.0,Male,6.5,2,4,Comedy,3.1,Basic,0.2,Mobile,8.2
+U0310,39.0,Female,,3,4,Drama,2.7,Basic,1.4,Mobile,23.8
+U0311,23.0,Female,7.4,6,1,Family,3.9,Basic,1.2,Mobile,15.5
+U0312,21.0,Male,,22,10,Action,3.3,Standard,6.4,Mobile,59.6
+U0313,21.0,Other,2.2,4,1,Comedy,4.8,Basic,2.4,Mobile,13.9
+U0314,34.0,Female,4.1,2,4,Family,2.8,Basic,0.2,Mobile,5.8
+U0315,30.0,Male,5.5,5,3,Drama,3.4,Basic,1.0,Mobile,20.8
+U0316,30.0,Male,6.0,0,3,Family,4.3,Standard,2.8,Laptop,10.6
+U0317,42.0,Female,16.2,15,11,Family,3.7,Standard,5.0,Smart TV,48.0
+U0318,28.0,Female,26.7,19,6,Action,2.9,Standard,3.0,Laptop,59.3
+U0319,24.0,Female,11.8,22,12,Action,3.1,Premium,6.6,Laptop,45.8
+U0320,23.0,Female,5.6,3,4,Family,4.0,Basic,1.2,Mobile,6.9
+U0321,14.0,Male,3.6,2,1,Family,2.6,Basic,1.3,Mobile,11.1
+U0322,19.0,Female,19.7,34,10,Thriller,3.4,Standard,5.2,Smart TV,58.6
+U0323,43.0,Female,14.9,5,14,Family,3.5,Standard,3.4,Smart TV,43.8
+U0324,35.0,Male,12.4,11,17,Drama,3.3,Standard,2.6,Smart TV,31.7
+U0325,24.0,Female,23.5,23,10,Action,2.7,Standard,7.4,Mobile,59.9
+U0326,33.0,Male,7.7,3,3,Action,3.4,Basic,1.9,Mobile,13.9
+U0327,41.0,Female,8.9,16,18,Family,2.8,Basic,4.9,Laptop,37.4
+U0328,22.0,Female,16.8,29,7,Action,2.8,Standard,4.2,Mobile,49.6
+U0329,41.0,Female,14.1,9,27,Family,4.2,Basic,3.9,Smart TV,40.2
+U0330,29.0,Female,42.7,38,28,Drama,4.1,Premium,11.9,Smart TV,100.0
+U0331,45.0,Female,17.3,8,19,Drama,4.4,Basic,5.7,Smart TV,55.4
+U0332,31.0,Female,38.6,28,24,Sci-Fi,,Premium,9.0,Smart TV,93.8
+U0333,35.0,Female,4.8,5,0,Action,4.0,Basic,1.7,Mobile,20.6
+U0334,44.0,Male,17.9,13,25,Family,,Standard,3.3,Smart TV,46.3
+U0335,36.0,Male,31.8,32,25,Thriller,4.3,Premium,7.8,Laptop,84.8
+U0336,26.0,Female,42.0,27,15,Sci-Fi,4.6,Standard,10.1,Smart TV,91.9
+U0337,22.0,Male,23.8,39,9,Thriller,3.9,Standard,3.3,Mobile,62.7
+U0338,21.0,Female,30.6,18,8,Action,3.4,Basic,3.9,Mobile,61.0
+U0339,18.0,Female,27.5,33,13,Thriller,3.2,Basic,9.4,Smart TV,80.8
+U0340,33.0,Female,33.9,34,21,Action,3.9,Premium,6.5,Laptop,77.0
+U0341,30.0,Male,30.9,26,25,Action,4.6,Premium,7.5,Laptop,84.5
+U0342,25.0,Male,6.1,4,3,Drama,2.7,Basic,2.1,Smart TV,12.9
+U0343,42.0,Female,16.7,15,15,Drama,3.7,Standard,3.3,Laptop,53.8
+U0344,14.0,Female,5.4,2,1,Comedy,3.2,Basic,1.6,Mobile,16.8
+U0345,20.0,Female,3.8,4,5,Action,3.4,Basic,0.2,Laptop,14.5
+U0346,29.0,Male,22.7,32,5,Thriller,3.1,Premium,7.3,Laptop,68.1
+U0347,33.0,Female,14.7,11,20,Comedy,3.4,Basic,6.1,Mobile,48.3
+U0348,,Male,13.7,34,6,Sci-Fi,2.6,Standard,5.4,Mobile,44.6
+U0349,21.0,Male,18.5,24,3,Action,3.4,Standard,6.4,Laptop,43.8
+U0350,25.0,Male,6.6,7,0,Action,3.1,Basic,0.5,Laptop,15.7
+U0351,24.0,Male,22.7,34,7,Thriller,3.4,Standard,4.9,Smart TV,61.3
+U0352,24.0,Female,29.8,37,4,Sci-Fi,3.4,Standard,8.5,Mobile,83.7
+U0353,39.0,Male,4.5,5,2,Comedy,2.8,Basic,1.1,Mobile,9.3
+U0354,14.0,Male,4.1,7,3,Family,3.2,Standard,2.1,Laptop,17.7
+U0355,30.0,Female,16.2,17,2,Thriller,3.6,Standard,6.0,Mobile,46.0
+U0356,33.0,Male,2.5,5,4,Action,2.4,Standard,1.1,Mobile,6.6
+U0357,43.0,Female,21.5,16,22,Family,3.4,Basic,6.1,Smart TV,66.2
+U0358,17.0,Male,19.8,12,4,Thriller,3.3,Basic,7.7,Laptop,57.0
+U0359,35.0,Female,4.5,5,3,Action,3.3,Basic,0.8,Mobile,10.3
+U0360,25.0,Male,5.1,2,2,Comedy,3.2,Standard,1.0,Mobile,6.4
+U0361,36.0,Male,19.3,27,12,Action,2.4,Standard,4.4,Mobile,58.5
+U0362,38.0,Male,,13,19,Family,3.1,Basic,3.3,Laptop,47.4
+U0363,23.0,Female,,28,11,Sci-Fi,2.9,Standard,3.1,Smart TV,35.5
+U0364,42.0,Male,13.3,13,21,Drama,3.9,Standard,3.7,Smart TV,43.0
+U0365,17.0,Female,7.3,3,2,Comedy,4.0,Basic,1.5,Mobile,17.4
+U0366,20.0,Male,24.0,23,9,Comedy,2.7,Standard,5.8,Laptop,64.3
+U0367,23.0,Male,15.2,28,5,Sci-Fi,3.6,Standard,7.4,Laptop,52.2
+U0368,15.0,Female,25.9,35,5,Action,4.4,Standard,3.3,Laptop,59.2
+U0369,32.0,Female,15.8,14,19,Family,3.0,Standard,4.2,Smart TV,49.9
+U0370,29.0,Female,23.4,30,10,Action,2.8,Premium,7.2,Mobile,57.4
+U0371,20.0,Female,32.2,21,27,Sci-Fi,3.5,Premium,8.4,Laptop,78.7
+U0372,39.0,Male,13.4,9,20,Family,3.1,Standard,4.5,Smart TV,40.6
+U0373,14.0,Other,12.0,19,8,Thriller,4.2,Premium,4.9,Laptop,38.4
+U0374,34.0,Female,16.9,11,23,Comedy,3.1,Standard,4.0,Smart TV,41.8
+U0375,46.0,Female,3.7,3,1,Drama,3.3,Basic,0.9,Smart TV,8.0
+U0376,28.0,Male,26.0,30,8,Action,3.6,Standard,4.0,Smart TV,67.8
+U0377,28.0,Female,,28,29,Action,5.0,Premium,11.6,Laptop,100.0
+U0378,14.0,Male,2.9,1,1,Action,3.6,Basic,1.8,Mobile,6.9
+U0379,30.0,Female,5.5,6,1,Drama,3.1,Basic,2.3,Smart TV,17.6
+U0380,45.0,Female,19.8,16,19,Family,3.4,Basic,3.7,Laptop,48.5
+U0381,14.0,Male,8.7,6,3,Action,3.2,Basic,0.5,Mobile,24.2
+U0382,38.0,Male,14.4,11,16,Drama,4.0,Standard,5.1,Smart TV,43.4
+U0383,28.0,Male,32.7,26,26,Drama,4.1,Premium,9.1,Mobile,86.2
+U0384,18.0,Male,5.5,6,4,Action,3.4,Basic,1.7,Mobile,19.5
+U0385,23.0,Female,3.8,7,0,Action,3.1,Standard,1.4,Mobile,7.6
+U0386,21.0,Male,13.6,27,7,Action,3.6,Standard,8.7,Mobile,59.2
+U0387,41.0,Male,8.9,14,24,Family,3.4,Basic,4.5,Smart TV,39.7
+U0388,22.0,Female,9.5,19,5,Action,3.3,Standard,5.2,Mobile,36.1
+U0389,42.0,Male,14.3,11,17,Family,4.5,Standard,4.2,Smart TV,39.6
+U0390,32.0,Male,34.0,24,30,Drama,3.5,Premium,8.7,Laptop,97.4
+U0391,14.0,Male,4.9,3,2,Comedy,3.2,Standard,2.8,Mobile,14.8
+U0392,23.0,Female,4.6,1,0,Family,3.6,Basic,1.4,Mobile,12.1
+U0393,32.0,Female,18.4,38,6,Action,3.6,Standard,9.4,Mobile,68.7
+U0394,32.0,Male,14.2,11,15,Drama,3.0,Standard,2.8,Smart TV,33.6
+U0395,17.0,Female,18.9,43,7,Thriller,3.5,Basic,8.3,Mobile,67.5
+U0396,31.0,Female,12.9,34,13,Action,2.7,Standard,8.1,Smart TV,59.4
+U0397,31.0,Female,25.9,32,25,Drama,3.7,Premium,10.3,Laptop,87.7
+U0398,23.0,Female,23.8,24,9,Sci-Fi,3.3,Basic,6.0,Mobile,60.2
+U0399,32.0,Female,7.3,3,3,Drama,3.1,Basic,0.4,Smart TV,13.6
+U0400,43.0,Male,26.6,32,24,Drama,4.2,Premium,9.1,Laptop,73.9
+U0401,44.0,Female,15.6,13,17,Family,3.7,Premium,4.7,Mobile,48.4
+U0402,29.0,Male,21.7,28,5,Action,3.2,Standard,6.6,Mobile,62.9
+U0403,,Male,48.7,35,21,Thriller,4.1,Standard,8.6,Laptop,100.0
+U0404,50.0,Male,34.2,26,22,Thriller,3.5,Premium,11.4,Mobile,99.3
+U0405,33.0,Male,15.6,18,21,Drama,4.1,Standard,4.5,Smart TV,48.6
+U0406,36.0,Male,33.1,25,31,Drama,3.7,Premium,9.4,Laptop,91.6
+U0407,29.0,Male,18.8,31,24,Drama,3.0,Premium,8.8,Laptop,64.7
+U0408,25.0,Male,20.8,23,8,Action,4.3,Basic,6.3,Laptop,60.8
+U0409,23.0,Female,26.2,36,10,Comedy,3.6,Standard,8.2,Mobile,66.9
+U0410,45.0,Male,14.0,11,13,Family,2.6,Standard,4.5,Smart TV,38.5
+U0411,22.0,Female,44.8,31,23,Drama,4.0,Premium,9.4,Smart TV,100.0
+U0412,24.0,Female,31.7,23,27,Action,3.9,Premium,9.0,Laptop,90.5
+U0413,24.0,Female,27.7,37,3,Sci-Fi,,Standard,5.5,Mobile,69.4
+U0414,39.0,Female,11.6,13,28,Drama,3.7,Standard,3.4,Smart TV,27.8
+U0415,35.0,Male,19.0,7,15,Family,4.1,Basic,4.2,Smart TV,50.6
+U0416,31.0,Male,24.9,35,33,Action,3.6,Premium,10.3,Smart TV,82.8
+U0417,51.0,Male,14.0,6,25,Drama,3.9,Standard,2.4,Smart TV,33.4
+U0418,36.0,Male,36.9,27,18,Drama,4.1,Premium,11.3,Laptop,97.9
+U0419,30.0,Male,7.8,3,2,Drama,3.3,Basic,0.2,Smart TV,7.6
+U0420,29.0,Male,26.8,26,25,Drama,4.3,Premium,10.6,Laptop,86.3
+U0421,16.0,Female,3.6,4,1,Action,3.8,Basic,2.3,Mobile,17.8
+U0422,37.0,Male,29.4,36,17,Thriller,3.7,Premium,10.1,Mobile,83.6
+U0423,18.0,Male,16.7,31,3,Action,4.1,Standard,6.8,Smart TV,50.9
+U0424,42.0,Male,20.4,8,17,Family,,Basic,6.0,Laptop,52.6
+U0425,14.0,Female,5.1,1,0,Action,3.8,Standard,0.3,Mobile,7.0
+U0426,24.0,Female,22.1,27,6,Thriller,3.9,Standard,6.5,Mobile,56.7
+U0427,37.0,Male,16.3,9,18,Drama,3.5,Basic,4.0,Smart TV,35.4
+U0428,27.0,Male,16.9,30,4,Action,3.7,Standard,5.0,Laptop,53.5
+U0429,37.0,Female,29.5,33,31,Drama,4.2,Premium,9.9,Laptop,84.1
+U0430,40.0,Male,19.5,16,16,Drama,3.3,Standard,4.7,Smart TV,43.6
+U0431,25.0,Male,9.3,0,5,Drama,3.5,Basic,3.2,Mobile,20.7
+U0432,45.0,Male,16.5,6,15,Family,4.2,Basic,4.3,Mobile,48.7
+U0433,16.0,Male,6.0,5,1,Family,3.6,Basic,0.9,Mobile,16.6
+U0434,39.0,Other,17.0,14,24,Drama,3.8,Standard,4.6,Smart TV,45.0
+U0435,25.0,Female,0.6,4,2,Drama,3.9,Basic,2.0,Mobile,8.3
+U0436,22.0,Male,6.3,4,3,Action,3.9,Basic,0.5,Mobile,2.5
+U0437,27.0,Female,22.5,34,6,Thriller,3.6,Basic,5.9,Laptop,57.9
+U0438,37.0,Female,30.4,21,17,Drama,3.6,Premium,11.2,Laptop,93.6
+U0439,23.0,Female,39.9,35,27,Drama,4.0,Premium,6.8,Smart TV,95.6
+U0440,34.0,Female,32.3,31,25,Thriller,3.6,Premium,6.2,Smart TV,74.5
+U0441,21.0,Female,23.0,26,9,Sci-Fi,3.6,Standard,5.2,Smart TV,62.3
+U0442,23.0,Male,21.2,38,12,Thriller,3.2,Basic,6.4,Smart TV,70.1
+U0443,21.0,Male,33.8,22,17,Drama,3.7,Premium,8.7,Smart TV,85.8
+U0444,29.0,Female,32.1,29,25,Drama,4.1,Premium,8.0,Smart TV,86.2
+U0445,30.0,Male,27.0,28,19,Drama,3.7,Premium,7.5,Smart TV,76.4
+U0446,39.0,Male,5.4,6,3,Drama,3.5,Standard,1.1,Smart TV,16.3
+U0447,22.0,Male,18.0,37,10,Sci-Fi,3.4,Basic,8.2,Mobile,59.4
+U0448,25.0,Female,9.2,34,8,Action,2.8,Standard,4.9,Laptop,43.6
+U0449,31.0,Male,24.9,43,8,Action,3.1,Premium,6.7,Laptop,65.2
+U0450,46.0,Female,32.0,34,19,Sci-Fi,4.2,Standard,8.0,Mobile,89.3
+U0451,31.0,Other,15.9,25,28,Thriller,4.3,Premium,9.7,Laptop,66.4
+U0452,23.0,Female,16.4,37,9,Action,4.5,Standard,4.1,Mobile,51.8
+U0453,45.0,Female,34.1,31,31,Sci-Fi,4.0,Premium,7.9,Laptop,90.6
+U0454,29.0,Male,26.1,30,27,Thriller,4.6,Premium,9.5,Smart TV,87.0
+U0455,30.0,Male,23.7,28,6,Action,4.4,Standard,7.3,Smart TV,72.4
+U0456,19.0,Other,8.4,7,1,Drama,4.0,Basic,0.2,Mobile,13.4
+U0457,30.0,Male,32.1,37,24,Thriller,4.3,Premium,11.2,Laptop,92.6
+U0458,31.0,Female,37.2,29,29,Thriller,4.5,Premium,9.3,Laptop,90.8
+U0459,22.0,Male,6.0,0,2,Family,2.9,Basic,1.9,Mobile,16.3
+U0460,33.0,Female,42.6,22,24,Action,3.7,Premium,9.9,Smart TV,100.0
+U0461,42.0,Female,17.7,10,28,Comedy,3.2,Premium,2.9,Smart TV,41.1
+U0462,49.0,Male,17.8,11,10,Kids,2.7,Standard,4.5,Mobile,40.8
+U0463,47.0,Male,13.1,11,24,Kids,3.9,Basic,3.2,Smart TV,41.6
+U0464,22.0,Other,5.4,1,5,Comedy,4.4,Basic,1.9,Mobile,14.5
+U0465,28.0,Male,30.7,32,10,Thriller,3.7,Premium,5.6,Mobile,69.5
+U0466,19.0,Female,16.2,28,4,Comedy,4.6,Premium,7.1,Mobile,48.8
+U0467,44.0,Male,15.9,16,23,Drama,2.6,Standard,5.6,Mobile,51.8
+U0468,19.0,Male,18.2,38,8,Thriller,3.3,Premium,4.7,Smart TV,47.5
+U0469,21.0,Male,19.1,16,9,Action,3.1,Standard,5.8,Mobile,52.2
+U0470,48.0,Male,6.8,5,1,Comedy,3.1,Basic,2.9,Mobile,26.9
+U0471,25.0,Female,15.1,21,7,Action,3.7,Standard,4.9,Laptop,46.0
+U0472,14.0,Female,27.5,38,5,Action,4.0,Basic,5.1,Mobile,57.3
+U0473,39.0,Female,33.1,34,21,Thriller,4.3,Premium,9.2,Mobile,88.7
+U0474,29.0,Male,4.1,4,4,Action,3.7,Basic,1.5,Mobile,12.6
+U0475,30.0,Female,36.8,25,33,Thriller,4.7,Premium,9.9,Smart TV,94.5
+U0476,25.0,Female,5.8,1,3,Comedy,3.6,Basic,1.5,Mobile,13.2
+U0477,23.0,Male,13.6,12,20,Family,4.6,Standard,4.3,Smart TV,42.9
+U0478,27.0,Male,17.6,29,9,Sci-Fi,3.2,Standard,6.1,Mobile,57.8
+U0479,21.0,Male,27.1,37,23,Action,3.1,Premium,7.3,Mobile,75.3
+U0480,30.0,Other,33.4,15,26,Action,3.5,Premium,9.3,Smart TV,87.5
+U0481,46.0,Male,17.6,13,18,Drama,3.9,Basic,2.7,Smart TV,42.0
+U0482,34.0,Male,18.4,14,16,Drama,2.5,Basic,3.4,Smart TV,40.6
+U0483,40.0,Male,16.7,17,14,Drama,3.0,Standard,2.9,Mobile,42.4
+U0484,35.0,Female,6.9,3,4,Comedy,3.8,Basic,1.2,Mobile,16.1
+U0485,42.0,Male,22.2,12,18,Family,4.1,Standard,4.9,Smart TV,53.3
+U0486,34.0,Male,22.4,11,25,Drama,2.9,Standard,4.7,Smart TV,51.7
+U0487,24.0,Male,19.2,27,7,Sci-Fi,3.4,Standard,6.7,Laptop,55.4
+U0488,45.0,Male,21.3,9,30,Family,3.1,Standard,4.7,Laptop,53.6
+U0489,27.0,Female,15.3,27,6,Action,3.7,Basic,5.9,Mobile,45.1
+U0490,24.0,Male,31.1,24,8,Action,3.7,Standard,5.9,Smart TV,70.5
+U0491,,Male,19.7,14,22,Family,3.3,Standard,2.7,Smart TV,47.6
+U0492,42.0,Female,14.6,12,10,Comedy,3.6,Standard,2.6,Mobile,33.3
+U0493,36.0,Female,17.3,19,16,Family,3.8,Standard,3.9,Laptop,46.4
+U0494,35.0,Female,24.2,33,21,Thriller,3.6,Premium,10.6,Smart TV,79.8
+U0495,26.0,Male,13.7,44,5,Sci-Fi,4.0,Basic,7.5,Laptop,52.3
+U0496,50.0,Female,12.3,18,21,Family,2.8,Basic,2.4,Smart TV,35.7
+U0497,27.0,Male,17.0,32,5,Action,4.2,Basic,5.4,Laptop,49.8
+U0498,29.0,Female,22.7,24,9,Thriller,4.3,Premium,9.4,Smart TV,66.1
+U0499,42.0,Male,16.6,16,22,Family,4.1,Standard,3.9,Smart TV,56.6
+U0500,18.0,Female,27.9,34,13,Action,2.9,Standard,7.1,Laptop,74.1
+U0501,28.0,Male,4.1,2,6,Drama,3.2,Basic,1.1,Laptop,10.0
+U0502,22.0,Male,13.1,26,8,Sci-Fi,4.0,Standard,4.5,Mobile,37.1
+U0503,25.0,Male,20.7,30,12,Action,3.5,Standard,2.2,Mobile,48.8
+U0504,25.0,Female,23.2,31,8,Action,3.6,Standard,4.7,Laptop,57.6
+U0505,41.0,Male,10.1,17,18,Family,,Basic,5.6,Laptop,47.3
+U0506,26.0,Female,14.8,8,23,Family,3.5,Premium,5.5,Smart TV,51.7
+U0507,48.0,Female,20.2,6,18,Family,3.4,Basic,5.2,Smart TV,48.9
+U0508,48.0,Female,6.8,4,3,Action,3.2,Basic,1.6,Laptop,17.7
+U0509,27.0,Female,7.6,4,6,Comedy,3.8,Basic,1.7,Mobile,20.0
+U0510,28.0,Female,20.4,27,6,Thriller,4.4,Standard,5.6,Smart TV,51.8
+U0511,25.0,Female,21.7,34,5,Thriller,3.7,Standard,4.4,Mobile,57.6
+U0512,35.0,Male,5.0,6,4,Action,3.9,Basic,1.3,Mobile,9.7
+U0513,35.0,Female,5.8,15,17,Drama,4.3,Standard,3.5,Smart TV,25.4
+U0514,41.0,Male,11.2,6,15,Comedy,4.0,Standard,3.9,Smart TV,35.9
+U0515,27.0,Female,6.4,4,2,Family,3.9,Basic,1.8,Laptop,13.9
+U0516,31.0,Male,23.8,26,30,Sci-Fi,3.8,Premium,8.4,Laptop,76.0
+U0517,33.0,Female,5.5,3,0,Comedy,2.8,Standard,0.6,Laptop,15.6
+U0518,39.0,Female,17.8,6,16,Family,4.2,Premium,4.6,Smart TV,40.5
+U0519,28.0,Male,23.5,20,7,Sci-Fi,2.7,Premium,7.1,Mobile,58.0
+U0520,32.0,Male,15.1,8,25,Drama,3.7,Standard,3.1,Mobile,40.1
+U0521,22.0,Female,12.0,22,3,Thriller,3.2,Premium,2.5,Mobile,34.8
+U0522,30.0,Other,16.5,8,23,Family,4.2,Standard,2.3,Smart TV,37.6
+U0523,34.0,Male,16.1,8,21,Family,3.8,Standard,5.2,Laptop,47.5
+U0524,24.0,Male,21.3,22,10,Action,5.0,Standard,4.6,Laptop,51.5
+U0525,18.0,Female,14.5,24,12,Action,3.9,Basic,6.4,Mobile,45.8
+U0526,33.0,Male,26.6,29,7,Action,3.0,Premium,6.8,Smart TV,70.0
+U0527,27.0,Male,18.7,31,8,Thriller,4.0,Standard,6.3,Laptop,57.7
+U0528,32.0,Male,4.9,6,3,Drama,3.5,Basic,0.9,Mobile,8.9
+U0529,36.0,Female,6.0,4,2,Comedy,3.4,Standard,1.2,Mobile,16.7
+U0530,35.0,Other,16.3,9,15,Comedy,3.4,Standard,2.1,Laptop,38.4
+U0531,33.0,Male,4.6,3,1,Action,2.8,Basic,1.7,Mobile,12.3
+U0532,26.0,Female,42.6,30,24,Action,4.0,Premium,8.0,Smart TV,100.0
+U0533,30.0,Male,12.0,14,23,Family,3.9,Standard,3.0,Mobile,36.4
+U0534,19.0,Female,2.5,7,4,Comedy,3.5,Basic,2.6,Mobile,19.7
+U0535,35.0,Other,14.5,10,29,Family,3.7,Premium,4.4,Smart TV,43.9
+U0536,28.0,Male,0.5,3,5,Family,3.8,Basic,0.9,Laptop,4.0
+U0537,46.0,Male,17.2,19,20,Family,3.5,Basic,1.2,Smart TV,50.3
+U0538,40.0,Female,6.1,4,3,Comedy,4.3,Standard,1.6,Mobile,12.8
+U0539,14.0,Other,6.6,5,1,Action,3.4,Basic,0.5,Mobile,15.7
+U0540,18.0,Male,22.4,28,11,Action,4.0,Standard,6.9,Smart TV,61.0
+U0541,29.0,Female,15.3,6,18,Drama,3.7,Premium,5.6,Laptop,40.1
+U0542,24.0,Male,23.1,30,8,Thriller,3.6,Standard,5.0,Smart TV,52.2
+U0543,52.0,Female,12.3,10,25,Comedy,3.8,Basic,4.6,Smart TV,34.3
+U0544,37.0,Female,12.1,13,24,Drama,3.7,Standard,5.8,Mobile,49.1
+U0545,36.0,Female,21.7,7,15,Kids,3.4,Standard,0.9,Laptop,37.9
+U0546,39.0,Female,20.2,5,13,Drama,4.4,Basic,4.9,Smart TV,50.2
+U0547,19.0,Female,23.7,41,14,Thriller,3.7,Standard,6.1,Smart TV,72.4
+U0548,39.0,Male,4.1,5,3,Family,4.8,Basic,1.9,Mobile,16.3
+U0549,35.0,Female,14.9,17,23,Drama,3.7,Standard,6.6,Smart TV,51.2
+U0550,42.0,Female,33.7,21,15,Thriller,3.8,Premium,10.2,Smart TV,90.1
+U0551,36.0,Female,6.1,4,5,Action,3.7,Basic,0.2,Mobile,11.8
+U0552,45.0,Female,29.7,28,37,Action,4.2,Standard,8.5,Laptop,80.2
+U0553,41.0,Female,41.0,22,23,Action,3.6,Premium,9.8,Mobile,99.9
+U0554,22.0,Male,46.8,18,20,Drama,4.0,Standard,8.6,Smart TV,100.0
+U0555,45.0,Male,5.6,0,3,Action,3.4,Basic,1.9,Mobile,9.7
+U0556,18.0,Male,4.3,3,3,Family,3.5,Basic,1.8,Mobile,8.5
+U0557,14.0,Female,4.2,1,2,Drama,3.1,Basic,1.2,Laptop,14.2
+U0558,,Male,28.6,29,24,Thriller,4.2,Premium,11.3,Mobile,90.6
+U0559,28.0,Male,15.1,16,12,Family,3.3,Standard,3.2,Smart TV,38.3
+U0560,25.0,Female,21.8,36,7,Comedy,3.3,Standard,6.0,Smart TV,61.8
+U0561,43.0,Female,0.5,3,2,Drama,3.7,Basic,2.3,Laptop,11.6
+U0562,39.0,Female,16.7,13,21,Drama,3.7,Standard,3.7,Smart TV,48.6
+U0563,42.0,Male,19.9,9,16,Family,4.0,Standard,3.2,Smart TV,41.0
+U0564,39.0,Male,17.3,7,25,Family,3.2,Standard,2.9,Laptop,40.0
+U0565,28.0,Male,6.9,0,3,Family,4.0,Basic,1.6,Mobile,15.0
+U0566,32.0,Female,3.9,4,2,Family,4.7,Basic,1.3,Mobile,12.0
+U0567,20.0,Male,7.1,5,2,Action,3.5,Basic,2.2,Mobile,16.2
+U0568,26.0,Male,34.2,21,12,Action,3.9,Premium,6.2,Laptop,77.0
+U0569,26.0,Other,19.3,32,2,Action,3.9,Basic,8.8,Mobile,62.9
+U0570,27.0,Male,9.7,7,14,Comedy,3.6,Standard,4.9,Smart TV,37.0
+U0571,27.0,Female,17.2,11,37,Drama,3.4,Standard,4.3,Laptop,57.2
+U0572,24.0,Female,22.1,29,6,Sci-Fi,3.7,Basic,3.8,Smart TV,49.6
+U0573,38.0,Female,27.2,10,11,Family,3.3,Standard,5.1,Smart TV,64.8
+U0574,34.0,Male,5.8,0,2,Family,3.7,Basic,2.4,Mobile,20.2
+U0575,25.0,Female,4.8,1,2,Action,3.8,Basic,0.3,Laptop,10.2
+U0576,,Male,9.6,12,21,Family,,Standard,2.3,Smart TV,32.6
+U0577,16.0,Male,8.7,5,3,Drama,3.1,Basic,1.7,Mobile,13.8
+U0578,42.0,Male,22.5,20,15,Family,3.9,Standard,4.6,Mobile,57.5
+U0579,15.0,Male,23.5,33,5,Sci-Fi,3.9,Standard,9.2,Smart TV,74.9
+U0580,33.0,Male,16.7,10,9,Family,3.7,Basic,5.1,Smart TV,43.2
+U0581,46.0,Other,15.5,14,12,Drama,3.0,Standard,3.3,Smart TV,46.4
+U0582,40.0,Female,40.0,29,30,Thriller,4.1,Premium,8.6,Laptop,96.7
+U0583,27.0,Female,22.7,28,11,Action,2.8,Standard,4.7,Smart TV,60.1
+U0584,38.0,Female,13.3,17,17,Family,3.2,Standard,4.9,Smart TV,41.8
+U0585,23.0,Male,18.8,29,4,Action,4.3,Premium,6.7,Mobile,55.9
+U0586,33.0,Male,3.8,5,4,Action,3.2,Basic,3.7,Mobile,17.4
+U0587,,Male,7.8,2,2,Drama,3.8,Basic,0.5,Mobile,12.5
+U0588,47.0,Male,18.5,16,19,Comedy,3.3,Premium,4.5,Mobile,46.5
+U0589,37.0,Female,26.9,18,37,Thriller,3.9,Premium,8.0,Laptop,76.7
+U0590,26.0,Female,16.5,28,7,Thriller,3.4,Standard,8.4,Laptop,49.0
+U0591,48.0,Female,11.8,15,21,Drama,3.7,Standard,5.3,Smart TV,44.1
+U0592,22.0,Male,25.8,32,30,Thriller,3.6,Premium,11.7,Mobile,90.7
+U0593,33.0,Male,3.6,6,2,Comedy,2.6,Basic,1.3,Mobile,8.4
+U0594,30.0,Other,3.0,4,2,Action,3.2,Basic,1.3,Mobile,13.6
+U0595,20.0,Male,12.8,18,4,Action,3.5,Standard,4.0,Mobile,31.8
+U0596,31.0,Male,17.5,33,6,Thriller,3.5,Basic,6.0,Smart TV,55.6
+U0597,22.0,Female,22.3,23,9,Action,3.7,Standard,6.9,Mobile,62.3
+U0598,30.0,Male,18.8,6,15,Drama,3.4,Premium,3.1,Mobile,36.5
+U0599,36.0,Female,33.8,34,22,Action,3.5,Premium,8.8,Laptop,96.2
+U0600,47.0,Male,12.6,12,17,Drama,3.4,Standard,4.0,Mobile,30.3
+U0601,44.0,Male,19.3,18,29,Family,3.6,Standard,5.4,Mobile,56.5
+U0602,54.0,Female,10.6,14,30,Family,3.5,Standard,4.1,Smart TV,41.6
+U0603,22.0,Other,4.4,0,5,Comedy,2.9,Basic,0.3,Mobile,10.2
+U0604,25.0,Female,27.9,24,38,Thriller,3.6,Standard,8.6,Smart TV,88.1
+U0605,18.0,Male,23.9,22,12,Action,2.8,Basic,5.2,Mobile,55.2
+U0606,25.0,Male,10.9,38,8,Action,3.1,Standard,7.5,Laptop,45.4
+U0607,32.0,Female,13.3,12,16,Comedy,3.6,Standard,4.7,Smart TV,39.2
+U0608,,Female,,0,14,Drama,3.2,Standard,3.4,Laptop,36.3
+U0609,29.0,Female,5.1,6,1,Drama,3.6,Basic,2.6,Mobile,18.9
+U0610,27.0,Male,26.8,39,5,Action,3.3,Basic,6.5,Laptop,67.6
+U0611,21.0,Female,15.0,26,13,Thriller,3.6,Premium,7.7,Smart TV,52.0
+U0612,15.0,Male,5.2,5,0,Comedy,3.5,Basic,1.6,Mobile,20.9
+U0613,27.0,Male,10.8,22,11,Action,4.2,Standard,5.9,Laptop,44.4
+U0614,27.0,Other,23.4,21,1,Thriller,3.4,Standard,6.1,Mobile,59.4
+U0615,26.0,Male,30.6,16,1,Action,3.7,Premium,5.2,Mobile,66.2
+U0616,35.0,Male,15.7,10,20,Comedy,3.2,Standard,1.6,Smart TV,39.8
+U0617,32.0,Female,13.5,7,22,Drama,3.1,Basic,5.4,Smart TV,45.1
+U0618,53.0,Female,16.3,10,19,Family,3.7,Standard,4.0,Mobile,33.9
+U0619,14.0,Male,30.2,28,23,Thriller,4.3,Premium,11.4,Smart TV,94.5
+U0620,39.0,Female,24.6,11,16,Drama,3.8,Standard,5.7,Smart TV,62.0
+U0621,22.0,Male,6.3,5,1,Family,4.2,Basic,0.8,Mobile,14.0
+U0622,22.0,Female,16.6,31,11,Action,3.7,Premium,3.4,Mobile,43.7
+U0623,31.0,Male,5.0,6,1,Family,3.4,Basic,2.0,Mobile,11.2
+U0624,18.0,Male,10.7,4,1,Family,3.3,Basic,1.1,Mobile,22.0
+U0625,33.0,Male,16.7,19,24,Kids,4.0,Standard,3.5,Smart TV,41.2
+U0626,25.0,Female,4.6,3,1,Drama,3.0,Standard,1.6,Mobile,8.3
+U0627,22.0,Female,14.0,31,11,Action,3.5,Standard,3.5,Mobile,43.9
+U0628,14.0,Male,5.3,3,4,Comedy,2.8,Basic,1.5,Mobile,13.0
+U0629,36.0,Male,5.3,9,1,Drama,3.4,Standard,0.9,Mobile,9.8
+U0630,22.0,Female,7.9,5,5,Family,4.2,Basic,0.4,Mobile,11.2
+U0631,34.0,Female,14.3,32,8,Action,4.3,Standard,5.8,Laptop,46.9
+U0632,38.0,Male,24.7,23,33,Drama,3.8,Premium,10.2,Laptop,87.7
+U0633,27.0,Male,20.8,20,25,Comedy,3.7,Standard,5.7,Smart TV,53.2
+U0634,27.0,Male,17.4,35,9,Action,4.2,Standard,6.7,Mobile,60.1
+U0635,29.0,Male,38.9,25,20,Thriller,4.3,Premium,7.4,Laptop,95.6
+U0636,36.0,Female,28.3,30,11,Thriller,4.2,Premium,7.3,Smart TV,68.7
+U0637,31.0,Female,3.1,2,3,Action,3.8,Standard,3.4,Mobile,16.6
+U0638,32.0,Female,5.5,6,4,Comedy,3.2,Standard,2.2,Mobile,19.1
+U0639,35.0,Female,6.4,3,2,Action,3.7,Basic,0.2,Mobile,8.3
+U0640,27.0,Female,32.7,40,22,Drama,4.6,Premium,10.3,Laptop,93.1
+U0641,18.0,Female,7.7,28,7,Action,3.5,Premium,3.4,Smart TV,36.3
+U0642,17.0,Female,9.2,4,1,Family,4.1,Standard,1.2,Mobile,21.6
+U0643,19.0,Female,25.9,30,11,Thriller,3.2,Standard,6.7,Mobile,70.1
+U0644,,Other,5.4,4,3,Comedy,3.7,Basic,2.3,Laptop,18.3
+U0645,50.0,Male,20.6,16,18,Family,3.6,Premium,3.9,Smart TV,54.0
+U0646,31.0,Male,27.5,26,25,Drama,4.0,Premium,8.0,Smart TV,80.3
+U0647,31.0,Female,16.7,11,8,Family,3.1,Standard,4.3,Smart TV,43.7
+U0648,23.0,Male,38.1,29,25,Thriller,3.6,Premium,8.4,Laptop,97.7
+U0649,41.0,Female,13.9,15,21,Family,3.5,Standard,4.3,Smart TV,44.8
+U0650,28.0,Female,23.4,30,7,Thriller,3.4,Standard,7.0,Laptop,65.9
+U0651,45.0,Male,13.2,13,28,Comedy,3.7,Standard,5.9,Smart TV,50.5
+U0652,36.0,Female,6.7,2,3,Comedy,3.6,Basic,1.3,Laptop,11.7
+U0653,45.0,Male,4.9,2,1,Comedy,3.2,Basic,2.3,Laptop,5.0
+U0654,,Male,27.1,25,25,Action,,Standard,9.9,Smart TV,76.2
+U0655,21.0,Female,19.5,8,25,Family,3.1,Standard,3.5,Mobile,46.1
+U0656,23.0,Female,6.2,3,6,Comedy,4.1,Standard,2.5,Mobile,21.5
+U0657,40.0,Male,45.7,32,34,Action,5.0,Premium,10.2,Smart TV,100.0
+U0658,44.0,Male,13.3,9,28,Family,3.0,Standard,0.6,Smart TV,42.6
+U0659,40.0,Male,13.4,12,18,Family,4.5,Basic,6.3,Smart TV,46.9
+U0660,35.0,Male,6.3,17,27,Drama,3.7,Standard,4.0,Smart TV,36.4
+U0661,41.0,Female,10.0,11,19,Family,4.0,Standard,3.4,Mobile,35.2
+U0662,14.0,Male,5.7,4,5,Drama,4.4,Basic,0.4,Mobile,10.9
+U0663,40.0,Female,15.7,12,18,Drama,3.1,Standard,5.5,Mobile,48.7
+U0664,24.0,Female,28.3,35,29,Drama,3.7,Premium,9.5,Smart TV,89.0
+U0665,16.0,Female,23.4,36,2,Thriller,3.6,Standard,7.5,Mobile,65.7
+U0666,19.0,Female,3.1,3,4,Comedy,3.4,Standard,0.9,Mobile,11.8
+U0667,25.0,Male,37.0,37,28,Drama,4.4,Premium,10.0,Mobile,96.6
+U0668,39.0,Male,0.9,6,5,Family,2.1,Basic,0.6,Mobile,6.0
+U0669,46.0,Female,9.2,2,2,Action,3.7,Basic,1.8,Mobile,17.3
+U0670,52.0,Female,16.0,10,32,Family,3.7,Standard,3.0,Smart TV,41.0
+U0671,18.0,Male,25.9,34,7,Action,3.7,Premium,5.4,Mobile,61.5
+U0672,44.0,Male,17.8,14,11,Family,4.0,Standard,5.4,Laptop,53.0
+U0673,21.0,Female,12.4,2,0,Comedy,3.9,Basic,0.2,Smart TV,24.0
+U0674,31.0,Male,6.7,6,1,Family,3.7,Standard,1.6,Smart TV,16.6
+U0675,34.0,Male,6.1,6,1,Comedy,3.1,Basic,1.9,Mobile,18.0
+U0676,33.0,Female,16.5,33,10,Action,2.0,Standard,6.2,Mobile,49.5
+U0677,30.0,Female,14.3,12,22,Drama,4.0,Standard,4.0,Smart TV,40.3
+U0678,19.0,Male,17.4,34,10,Action,3.9,Standard,7.0,Smart TV,57.5
+U0679,42.0,Female,14.4,17,21,Family,3.2,Basic,3.0,Smart TV,38.3
+U0680,23.0,Female,24.3,27,4,Comedy,4.2,Basic,5.2,Laptop,61.2
+U0681,42.0,Female,19.5,15,17,Family,3.5,Basic,4.3,Smart TV,51.7
+U0682,14.0,Male,24.1,34,11,Action,4.0,Standard,4.2,Mobile,58.8
+U0683,34.0,Female,16.4,7,22,Drama,4.3,Basic,4.0,Smart TV,43.8
+U0684,16.0,Female,5.3,3,3,Comedy,3.0,Basic,0.7,Mobile,12.9
+U0685,21.0,Other,25.3,46,7,Comedy,3.9,Basic,4.8,Laptop,67.5
+U0686,33.0,Male,28.6,31,7,Action,2.6,Standard,6.7,Mobile,71.5
+U0687,20.0,Female,23.9,33,8,Action,3.6,Standard,9.1,Smart TV,71.7
+U0688,35.0,Male,38.0,25,32,Action,4.5,Premium,7.9,Mobile,92.4
+U0689,21.0,Female,20.3,37,10,Thriller,2.8,Standard,8.9,Mobile,68.3
+U0690,29.0,Male,5.3,1,4,Family,4.3,Standard,1.2,Mobile,3.9
+U0691,36.0,Male,14.5,12,17,Comedy,4.3,Standard,3.4,Smart TV,36.6
+U0692,28.0,Male,25.4,33,7,Action,3.3,Premium,6.9,Mobile,67.1
+U0693,26.0,Male,20.6,31,5,Thriller,2.9,Standard,4.8,Mobile,55.5
+U0694,22.0,Male,32.7,38,15,Thriller,4.0,Premium,10.4,Laptop,91.5
+U0695,34.0,Female,15.3,10,10,Drama,4.0,Standard,2.6,Smart TV,26.9
+U0696,21.0,Female,31.2,30,29,Drama,3.9,Premium,11.6,Laptop,93.6
+U0697,24.0,Female,7.4,0,3,Drama,2.8,Basic,0.8,Laptop,14.6
+U0698,31.0,Female,18.6,39,8,Action,3.5,Standard,5.2,Laptop,61.0
+U0699,31.0,Female,30.5,31,10,Thriller,,Standard,6.2,Laptop,73.6
+U0700,31.0,Female,8.1,2,3,Drama,,Basic,2.3,Mobile,22.7
+U0701,38.0,Male,17.6,14,15,Comedy,3.6,Standard,4.9,Smart TV,43.0
+U0702,42.0,Male,19.1,12,15,Family,3.4,Basic,3.7,Laptop,43.2
+U0703,25.0,Female,33.0,34,21,Drama,4.8,Premium,11.0,Smart TV,98.8
+U0704,33.0,Female,34.7,31,25,Action,4.0,Premium,9.9,Smart TV,91.9
+U0705,48.0,Other,7.3,2,2,Action,3.7,Basic,1.9,Smart TV,7.3
+U0706,33.0,Male,21.0,12,22,Family,4.0,Basic,4.1,Laptop,49.0
+U0707,14.0,Female,15.3,31,4,Action,4.0,Standard,8.2,Laptop,56.8
+U0708,28.0,Other,11.5,34,11,Comedy,3.1,Premium,7.0,Laptop,53.1
+U0709,15.0,Male,23.7,37,7,Action,3.3,Basic,6.8,Smart TV,66.4
+U0710,18.0,Female,27.8,23,7,Action,2.5,Standard,7.0,Laptop,73.1
+U0711,46.0,Female,11.9,9,22,Family,4.2,Standard,1.8,Smart TV,33.7
+U0712,14.0,Female,15.9,36,16,Thriller,3.9,Premium,6.5,Mobile,55.5
+U0713,42.0,Female,10.7,15,18,Drama,3.1,Standard,5.0,Smart TV,40.6
+U0714,30.0,Male,38.0,29,17,Thriller,4.0,Premium,11.7,Smart TV,100.0
+U0715,37.0,Female,25.7,29,38,Thriller,3.9,Premium,7.7,Smart TV,84.8
+U0716,40.0,Male,3.8,7,1,Family,3.8,Basic,1.4,Mobile,15.6
+U0717,15.0,Male,4.2,6,2,Family,2.6,Basic,0.7,Mobile,9.8
+U0718,17.0,Male,3.6,3,6,Comedy,2.9,Basic,3.2,Mobile,13.7
+U0719,14.0,Female,7.8,5,1,Comedy,2.2,Basic,1.3,Mobile,18.1
+U0720,57.0,Male,,27,24,Sci-Fi,3.1,Premium,9.6,Laptop,100.0
+U0721,16.0,Female,22.1,32,9,Sci-Fi,4.0,Standard,3.1,Mobile,48.6
+U0722,42.0,Male,6.7,0,4,Comedy,3.4,Basic,0.2,Mobile,6.6
+U0723,40.0,Male,27.5,37,24,Sci-Fi,3.7,Standard,9.3,Smart TV,77.6
+U0724,14.0,Female,4.7,3,4,Action,3.5,Standard,0.2,Laptop,9.0
+U0725,14.0,Male,0.5,3,2,Action,3.8,Basic,1.0,Smart TV,9.9
+U0726,31.0,Female,24.8,31,11,Thriller,4.3,Standard,6.7,Mobile,71.1
+U0727,28.0,Male,25.7,19,29,Drama,3.7,Premium,9.0,Mobile,75.8
+U0728,14.0,Male,7.9,3,2,Family,3.9,Basic,2.3,Mobile,23.7
+U0729,27.0,Female,15.0,20,9,Comedy,3.3,Premium,5.6,Smart TV,46.5
+U0730,33.0,Male,18.2,14,16,Drama,3.1,Standard,4.4,Smart TV,45.3
+U0731,40.0,Male,11.4,11,24,Family,3.8,Standard,5.1,Smart TV,38.8
+U0732,16.0,Female,6.0,3,2,Action,4.0,Basic,2.2,Mobile,20.7
+U0733,30.0,Male,14.8,29,8,Thriller,3.6,Premium,4.7,Laptop,39.9
+U0734,45.0,Female,10.9,7,21,Family,3.7,Basic,6.2,Smart TV,40.8
+U0735,25.0,Male,3.8,3,2,Comedy,2.5,Basic,3.2,Mobile,18.3
+U0736,28.0,Male,3.3,6,2,Comedy,3.5,Standard,1.4,Laptop,20.2
+U0737,36.0,Male,31.5,31,28,Action,4.3,Premium,8.2,Smart TV,93.8
+U0738,21.0,Male,25.2,25,2,Sci-Fi,4.2,Standard,7.5,Mobile,70.2
+U0739,49.0,Male,18.9,11,25,Family,2.8,Standard,3.2,Smart TV,46.6
+U0740,32.0,Male,17.5,7,21,Family,3.6,Premium,4.7,Smart TV,47.6
+U0741,34.0,Male,23.1,23,24,Sci-Fi,4.7,Premium,7.7,Mobile,69.7
+U0742,24.0,Male,22.9,41,4,Comedy,3.8,Standard,6.0,Smart TV,60.5
+U0743,36.0,Female,,33,6,Thriller,3.1,Premium,7.6,Laptop,66.6
+U0744,25.0,Female,24.8,33,6,Action,3.1,Standard,4.3,Mobile,59.7
+U0745,29.0,Male,15.1,28,7,Action,3.3,Standard,6.3,Laptop,52.6
+U0746,28.0,Male,23.8,27,13,Action,4.3,Premium,6.0,Smart TV,64.5
+U0747,47.0,Male,39.3,25,24,Action,3.9,Premium,11.1,Smart TV,100.0
+U0748,22.0,Male,26.4,21,4,Action,3.7,Standard,2.9,Mobile,48.8
+U0749,32.0,Male,35.0,35,25,Thriller,4.9,Premium,9.0,Smart TV,100.0
+U0750,40.0,Male,7.6,2,2,Drama,2.7,Basic,1.6,Mobile,14.9
+U0751,55.0,Male,33.8,33,28,Sci-Fi,4.7,Premium,12.3,Smart TV,100.0
+U0752,28.0,Female,13.8,13,20,Drama,3.4,Standard,3.6,Smart TV,38.1
+U0753,25.0,Male,30.1,17,6,Thriller,2.9,Standard,6.9,Mobile,75.6
+U0754,39.0,Female,48.7,11,25,Thriller,4.1,Premium,7.9,Laptop,100.0
+U0755,31.0,Male,21.9,21,7,Sci-Fi,3.9,Basic,6.5,Mobile,58.2
+U0756,28.0,Male,24.2,33,8,Action,4.0,Standard,6.5,Mobile,62.5
+U0757,50.0,Female,25.7,6,27,Drama,4.1,Standard,4.1,Smart TV,51.5
+U0758,29.0,Female,27.7,42,6,Action,4.6,Standard,6.0,Laptop,65.0
+U0759,30.0,Female,14.3,35,7,Action,3.0,Standard,5.9,Smart TV,49.0
+U0760,32.0,Male,17.5,14,16,Drama,3.3,Standard,4.1,Smart TV,43.6
+U0761,33.0,Male,31.5,31,21,Thriller,3.7,Premium,10.1,Smart TV,93.6
+U0762,25.0,Other,31.1,20,4,Action,3.5,Standard,5.4,Mobile,70.1
+U0763,27.0,Male,7.3,5,3,Family,3.8,Basic,2.0,Laptop,24.6
+U0764,31.0,Female,8.9,6,5,Comedy,3.6,Basic,2.0,Mobile,16.2
+U0765,23.0,Male,,3,2,Comedy,3.2,Basic,2.2,Laptop,9.3
+U0766,23.0,Male,18.6,35,12,Action,3.1,Basic,4.5,Laptop,59.1
+U0767,40.0,Female,0.5,4,3,Family,3.5,Standard,2.0,Mobile,1.0
+U0768,25.0,Female,3.4,4,0,Family,3.9,Basic,0.2,Mobile,5.1
+U0769,20.0,Male,28.7,23,24,Drama,4.3,Premium,7.9,Mobile,71.4
+U0770,44.0,Male,8.7,15,15,Family,5.0,Standard,5.3,Smart TV,27.9
+U0771,,Female,15.1,6,14,Comedy,2.9,Standard,3.5,Smart TV,39.2
+U0772,38.0,Male,12.8,11,20,Comedy,3.7,Basic,5.8,Mobile,45.4
+U0773,21.0,Female,21.2,34,9,Action,3.4,Standard,7.9,Laptop,64.4
+U0774,45.0,Female,15.0,11,26,Comedy,,Basic,3.1,Smart TV,45.2
+U0775,34.0,Male,21.1,8,21,Drama,2.6,Premium,2.0,Smart TV,45.6
+U0776,27.0,Male,7.4,3,5,Comedy,4.2,Basic,1.1,Smart TV,18.3
+U0777,44.0,Female,20.3,13,18,Family,3.6,Basic,4.5,Smart TV,51.4
+U0778,48.0,Male,14.7,15,20,Kids,2.8,Basic,2.4,Smart TV,42.8
+U0779,27.0,Female,3.7,2,2,Drama,4.2,Basic,1.1,Mobile,8.5
+U0780,24.0,Female,20.1,17,10,Action,4.3,Premium,8.2,Smart TV,62.1
+U0781,34.0,Female,39.1,29,27,Drama,3.5,Premium,9.2,Mobile,98.8
+U0782,26.0,Female,34.5,12,38,Thriller,5.0,Premium,7.7,Smart TV,80.4
+U0783,32.0,Female,12.7,13,10,Comedy,4.2,Basic,1.4,Smart TV,32.6
+U0784,27.0,Female,23.4,13,17,Family,3.3,Basic,4.9,Smart TV,52.4
+U0785,43.0,Male,8.9,4,4,Comedy,4.0,Basic,2.1,Laptop,25.0
+U0786,44.0,Male,18.1,13,23,Family,3.4,Standard,2.8,Laptop,42.4
+U0787,44.0,Male,7.0,1,1,Comedy,2.8,Basic,2.3,Mobile,19.3
+U0788,36.0,Male,33.2,32,24,Thriller,3.3,Premium,9.7,Smart TV,81.7
+U0789,20.0,Female,13.7,31,5,Thriller,3.3,Standard,4.3,Smart TV,42.0
+U0790,14.0,Female,0.8,5,2,Family,3.9,Basic,3.0,Mobile,7.9
+U0791,36.0,Female,18.5,6,17,Drama,3.0,Standard,5.8,Mobile,53.7
+U0792,25.0,Male,34.6,41,5,Sci-Fi,,Standard,5.6,Mobile,76.6
+U0793,27.0,Male,4.5,7,2,Drama,3.7,Basic,1.6,Mobile,10.5
+U0794,50.0,Male,19.2,12,26,Family,3.8,Basic,3.6,Smart TV,51.2
+U0795,47.0,Male,22.4,16,16,Comedy,,Standard,4.7,Smart TV,50.3
+U0796,27.0,Female,20.5,22,9,Action,3.8,Standard,6.1,Mobile,58.3
+U0797,40.0,Male,15.6,8,22,Comedy,3.0,Standard,4.4,Smart TV,48.9
+U0798,18.0,Female,,26,4,Action,3.1,Premium,5.5,Mobile,57.3
+U0799,44.0,Female,19.8,17,22,Kids,4.1,Premium,4.0,Smart TV,55.6
+U0800,29.0,Female,34.7,25,25,Sci-Fi,4.0,Premium,7.0,Laptop,80.4
+U0801,31.0,Female,40.0,28,35,Sci-Fi,4.1,Premium,7.4,Smart TV,99.8
+U0802,47.0,Male,34.8,31,30,Drama,4.5,Premium,9.4,Smart TV,97.4
+U0803,29.0,Male,15.6,35,33,Drama,3.8,Premium,11.8,Mobile,72.6
+U0804,30.0,Male,23.8,28,9,Action,3.5,Standard,9.4,Mobile,74.2
+U0805,32.0,Male,2.6,7,3,Family,4.1,Basic,2.4,Mobile,12.2
+U0806,32.0,Female,2.0,3,2,Family,4.8,Basic,1.2,Mobile,6.2
+U0807,26.0,Female,0.9,6,0,Comedy,3.7,Basic,0.9,Smart TV,5.4
+U0808,37.0,Male,16.7,13,22,Comedy,2.8,Standard,4.0,Smart TV,43.4
+U0809,26.0,Other,1.9,5,3,Comedy,3.9,Basic,2.5,Mobile,17.8
+U0810,29.0,Male,20.9,19,13,Action,3.6,Standard,7.0,Laptop,58.5
+U0811,29.0,Female,,7,23,Family,2.8,Standard,4.2,Laptop,39.4
+U0812,31.0,Female,35.9,25,15,Thriller,4.2,Premium,8.8,Smart TV,91.3
+U0813,27.0,Female,37.2,26,23,Sci-Fi,4.5,Premium,8.8,Smart TV,95.4
+U0814,43.0,Other,15.1,15,20,Family,2.9,Standard,2.3,Laptop,33.0
+U0815,26.0,Male,23.5,29,6,Action,3.4,Premium,9.3,Mobile,68.7
+U0816,20.0,Female,2.2,4,2,Drama,3.2,Basic,1.0,Mobile,7.2
+U0817,49.0,Female,6.6,0,4,Action,2.8,Basic,0.2,Mobile,9.0
+U0818,21.0,Male,36.3,30,22,Thriller,3.9,Premium,7.8,Mobile,87.9
+U0819,33.0,Male,38.2,31,24,Action,3.6,Premium,8.1,Mobile,92.1
+U0820,40.0,Female,22.1,12,23,Drama,3.8,Standard,6.9,Smart TV,63.1
+U0821,44.0,Female,17.4,21,20,Kids,3.2,Standard,5.8,Laptop,53.7
+U0822,24.0,Male,21.5,33,4,Thriller,4.2,Standard,6.5,Smart TV,62.8
+U0823,39.0,Male,40.5,27,32,Sci-Fi,4.0,Premium,8.7,Smart TV,95.7
+U0824,25.0,Female,27.0,33,12,Action,3.3,Basic,5.8,Smart TV,67.7
+U0825,17.0,Male,25.4,32,5,Action,4.2,Basic,5.7,Laptop,65.4
+U0826,37.0,Female,10.7,19,21,Comedy,3.2,Premium,4.6,Mobile,43.6
+U0827,29.0,Male,8.8,4,3,Action,3.4,Basic,0.3,Mobile,22.4
+U0828,14.0,Female,32.1,20,36,Sci-Fi,3.6,Premium,9.4,Smart TV,90.0
+U0829,18.0,Other,14.7,23,11,Thriller,,Standard,3.1,Mobile,39.9
+U0830,35.0,Male,18.0,15,23,Comedy,3.8,Standard,4.9,Smart TV,51.1
+U0831,28.0,Male,19.5,26,26,Sci-Fi,4.8,Premium,8.4,Laptop,63.4
+U0832,15.0,Female,17.3,37,9,Action,4.2,Standard,6.9,Smart TV,70.0
+U0833,37.0,Male,16.3,8,20,Drama,2.9,Standard,4.0,Smart TV,41.1
+U0834,14.0,Male,6.4,2,2,Drama,3.2,Basic,2.2,Mobile,8.9
+U0835,32.0,Male,18.4,31,22,Action,3.9,Premium,9.7,Laptop,69.9
+U0836,26.0,Female,19.3,27,8,Thriller,3.6,Premium,7.7,Smart TV,55.9
+U0837,29.0,Male,34.0,25,23,Thriller,4.8,Premium,10.2,Laptop,97.4
+U0838,54.0,Female,33.6,27,25,Thriller,4.1,Premium,8.4,Laptop,85.4
+U0839,46.0,Female,23.1,15,21,Comedy,3.3,Standard,3.9,Smart TV,55.2
+U0840,22.0,Female,28.8,24,14,Action,4.2,Standard,7.5,Smart TV,74.4
+U0841,34.0,Male,21.4,14,19,Drama,3.0,Premium,1.7,Laptop,50.0
+U0842,29.0,Female,5.4,3,1,Comedy,3.5,Basic,2.1,Mobile,12.3
+U0843,40.0,Male,19.2,15,21,Drama,3.7,Basic,5.4,Laptop,54.5
+U0844,42.0,Male,33.1,26,24,Sci-Fi,3.5,Premium,7.0,Laptop,80.2
+U0845,32.0,Male,33.1,27,29,Action,2.8,Standard,8.1,Smart TV,83.0
+U0846,28.0,Male,29.0,23,5,Action,3.9,Standard,6.3,Laptop,69.9
+U0847,26.0,Female,19.9,36,11,Action,2.5,Premium,5.7,Mobile,61.6
+U0848,48.0,Female,17.1,4,15,Family,3.6,Standard,4.7,Smart TV,32.9
+U0849,26.0,Male,39.0,33,30,Thriller,4.1,Premium,9.8,Mobile,100.0
+U0850,41.0,Female,21.7,15,20,Comedy,3.3,Standard,2.6,Smart TV,47.7
+U0851,28.0,Female,31.3,18,25,Action,4.6,Premium,8.4,Mobile,77.1
+U0852,18.0,Female,14.2,32,2,Action,3.6,Premium,7.1,Mobile,61.0
+U0853,27.0,Female,1.5,8,0,Action,3.4,Standard,0.2,Laptop,1.0
+U0854,31.0,Other,6.4,4,3,Family,3.5,Standard,0.5,Mobile,7.3
+U0855,24.0,Female,26.2,19,9,Action,3.4,Standard,6.4,Smart TV,58.4
+U0856,24.0,Male,13.2,38,6,Sci-Fi,4.4,Standard,4.9,Smart TV,51.3
+U0857,19.0,Other,25.5,30,5,Thriller,3.4,Standard,4.7,Laptop,62.5
+U0858,22.0,Male,19.9,36,10,Sci-Fi,3.2,Standard,9.9,Smart TV,69.2
+U0859,25.0,Female,9.5,2,3,Family,2.8,Standard,0.3,Mobile,11.0
+U0860,18.0,Female,6.2,2,4,Action,2.9,Basic,1.2,Mobile,14.5
+U0861,28.0,Female,32.8,27,16,Thriller,3.6,Standard,11.1,Laptop,96.3
+U0862,14.0,Female,8.7,0,3,Action,3.0,Basic,1.4,Mobile,18.3
+U0863,22.0,Female,4.3,4,4,Action,2.9,Standard,1.0,Mobile,13.1
+U0864,44.0,Male,13.7,9,12,Family,4.3,Standard,3.1,Smart TV,34.0
+U0865,37.0,Female,8.2,4,2,Action,3.8,Standard,1.2,Laptop,20.1
+U0866,36.0,Female,18.8,16,18,Family,3.1,Standard,3.5,Smart TV,46.6
+U0867,38.0,Female,4.5,3,3,Comedy,3.2,Basic,0.3,Mobile,8.7
+U0868,44.0,Female,20.2,11,30,Comedy,3.1,Standard,4.1,Smart TV,57.7
+U0869,25.0,Male,19.1,31,6,Comedy,3.7,Basic,5.1,Mobile,51.4
+U0870,32.0,Female,35.5,27,33,Drama,3.9,Standard,8.2,Smart TV,96.5
+U0871,22.0,Other,20.1,25,5,Action,4.3,Standard,5.5,Laptop,61.0
+U0872,19.0,Male,16.6,18,8,Action,2.9,Standard,2.6,Laptop,36.8
+U0873,20.0,Male,3.9,0,2,Action,3.8,Standard,1.1,Mobile,11.1
+U0874,29.0,Male,27.9,31,11,Thriller,4.5,Standard,2.5,Mobile,60.6
+U0875,27.0,Male,2.6,3,2,Family,3.3,Basic,1.5,Mobile,9.5
+U0876,35.0,Other,15.1,12,21,Kids,4.0,Basic,4.6,Smart TV,42.0
+U0877,20.0,Female,7.5,5,3,Drama,4.5,Basic,1.4,Mobile,20.2
+U0878,36.0,Male,13.2,14,20,Comedy,3.4,Standard,2.3,Mobile,35.2
+U0879,19.0,Male,30.2,23,18,Thriller,4.9,Premium,8.7,Mobile,89.0
+U0880,48.0,Male,5.7,5,4,Action,3.8,Basic,2.6,Mobile,13.2
+U0881,44.0,Male,20.6,15,26,Kids,4.1,Premium,3.9,Mobile,47.1
+U0882,28.0,Male,19.3,35,6,Sci-Fi,2.7,Standard,5.0,Smart TV,61.3
+U0883,37.0,Female,7.0,5,1,Comedy,,Basic,0.8,Mobile,12.7
+U0884,20.0,Female,3.7,3,2,Comedy,3.0,Basic,1.7,Mobile,10.8
+U0885,41.0,Female,16.8,7,17,Drama,3.9,Standard,4.7,Smart TV,41.9
+U0886,43.0,Male,,7,20,Comedy,3.5,Basic,6.0,Mobile,53.8
+U0887,25.0,Male,39.6,32,15,Thriller,,Premium,10.7,Laptop,100.0
+U0888,21.0,Male,14.5,30,7,Thriller,3.5,Standard,7.8,Smart TV,51.9
+U0889,38.0,Male,0.7,2,2,Comedy,2.3,Standard,1.3,Laptop,5.8
+U0890,43.0,Male,13.7,14,22,Kids,3.3,Standard,3.9,Laptop,42.3
+U0891,19.0,Male,20.7,30,4,Action,3.6,Standard,5.9,Laptop,48.4
+U0892,48.0,Male,30.8,30,25,Sci-Fi,4.2,Premium,6.9,Laptop,80.3
+U0893,46.0,Female,19.4,11,18,Family,3.5,Standard,3.1,Mobile,46.3
+U0894,26.0,Male,17.9,29,6,Action,3.1,Basic,6.4,Laptop,54.0
+U0895,34.0,Male,5.1,1,1,Comedy,2.9,Basic,1.6,Mobile,6.3
+U0896,14.0,Male,28.0,31,6,Action,2.2,Premium,6.5,Mobile,71.3
+U0897,15.0,Female,9.3,5,2,Action,3.2,Basic,2.4,Mobile,22.9
+U0898,29.0,Male,32.7,25,35,Drama,4.5,Premium,9.8,Smart TV,95.1
+U0899,47.0,Female,2.6,0,3,Drama,4.3,Basic,1.1,Mobile,15.3
+U0900,34.0,Male,4.1,2,0,Action,4.5,Basic,1.7,Mobile,13.4
+U0901,41.0,Male,13.1,13,18,Comedy,3.6,Premium,4.6,Mobile,29.1
+U0902,45.0,Female,15.2,24,18,Drama,3.4,Basic,4.3,Smart TV,48.3
+U0903,33.0,Female,21.0,27,28,Action,4.4,Premium,9.3,Mobile,72.5
+U0904,21.0,Other,26.8,18,2,Comedy,3.7,Standard,6.4,Smart TV,63.4
+U0905,29.0,Male,30.6,27,25,Thriller,3.6,Premium,7.8,Laptop,86.1
+U0906,28.0,Male,9.9,4,1,Action,3.3,Basic,1.5,Smart TV,21.5
+U0907,17.0,Female,21.3,35,6,Thriller,2.9,Standard,3.6,Mobile,50.9
+U0908,23.0,Male,12.1,10,18,Family,2.9,Standard,3.1,Laptop,29.0
+U0909,32.0,Female,10.7,14,13,Family,3.7,Standard,3.7,Smart TV,29.7
+U0910,26.0,Male,21.4,24,6,Action,,Basic,6.3,Mobile,59.8
+U0911,26.0,Female,14.4,34,9,Sci-Fi,3.5,Premium,3.6,Laptop,45.3
+U0912,21.0,Other,29.8,23,19,Drama,4.6,Premium,11.0,Laptop,86.8
+U0913,29.0,Female,5.5,8,1,Action,3.3,Basic,1.5,Mobile,15.4
+U0914,16.0,Male,21.2,23,6,Action,3.6,Standard,4.7,Laptop,45.4
+U0915,28.0,Male,31.4,29,14,Drama,4.8,Premium,8.9,Laptop,88.1
+U0916,44.0,Female,28.2,27,26,Thriller,4.8,Premium,8.5,Laptop,78.1
+U0917,36.0,Male,21.1,8,19,Family,3.0,Basic,1.9,Laptop,47.6
+U0918,14.0,Female,5.9,3,2,Comedy,3.7,Basic,2.0,Mobile,14.2
+U0919,51.0,Female,15.3,0,17,Comedy,2.7,Standard,5.3,Laptop,42.8
+U0920,45.0,Male,35.3,31,24,Thriller,3.7,Premium,9.2,Laptop,98.5
+U0921,52.0,Female,17.9,8,25,Drama,,Standard,4.4,Smart TV,51.0
+U0922,20.0,Male,18.4,31,7,Action,4.4,Basic,9.1,Laptop,66.1
+U0923,20.0,Female,28.3,29,7,Sci-Fi,3.9,Basic,10.1,Smart TV,77.7
+U0924,14.0,Male,23.6,28,10,Action,3.2,Standard,2.6,Mobile,49.1
+U0925,23.0,Female,17.9,35,5,Action,3.8,Basic,7.4,Smart TV,58.6
+U0926,43.0,Male,21.2,8,16,Family,4.6,Basic,2.3,Smart TV,45.0
+U0927,42.0,Female,11.4,16,15,Drama,3.6,Standard,4.3,Smart TV,40.1
+U0928,24.0,Male,5.0,2,2,Family,3.7,Basic,0.6,Smart TV,10.1
+U0929,32.0,Female,46.4,28,24,Thriller,4.7,Premium,7.2,Smart TV,99.3
+U0930,26.0,Male,11.6,5,20,Family,3.8,Basic,4.6,Mobile,39.8
+U0931,36.0,Male,4.1,3,4,Drama,3.9,Basic,2.5,Mobile,10.0
+U0932,21.0,Female,23.3,32,2,Thriller,3.9,Standard,7.4,Mobile,60.6
+U0933,43.0,Male,44.5,28,19,Sci-Fi,3.3,Premium,8.5,Mobile,98.0
+U0934,29.0,Female,,17,4,Action,3.4,Standard,5.3,Smart TV,49.7
+U0935,35.0,Male,19.8,7,19,Comedy,4.0,Standard,4.0,Mobile,44.8
+U0936,33.0,Female,9.3,2,0,Comedy,3.3,Standard,1.9,Laptop,18.8
+U0937,28.0,Male,15.6,12,22,Family,3.7,Premium,7.0,Smart TV,55.8
+U0938,16.0,Female,0.5,7,3,Comedy,2.9,Basic,1.0,Laptop,10.8
+U0939,30.0,Female,31.1,25,37,Drama,4.5,Premium,10.5,Laptop,92.6
+U0940,14.0,Male,7.2,1,2,Drama,3.5,Basic,2.2,Mobile,23.4
+U0941,33.0,Female,8.7,16,30,Family,2.4,Basic,4.1,Laptop,40.7
+U0942,33.0,Male,17.6,19,16,Comedy,4.2,Basic,5.1,Mobile,53.2
+U0943,30.0,Male,19.2,22,13,Action,4.3,Standard,8.6,Mobile,64.2
+U0944,43.0,Male,18.3,11,22,Family,3.6,Standard,4.4,Laptop,49.2
+U0945,41.0,Female,13.5,12,22,Comedy,3.2,Standard,5.4,Smart TV,47.5
+U0946,33.0,Female,29.6,30,20,Drama,3.5,Premium,10.1,Smart TV,87.0
+U0947,37.0,Male,14.0,4,21,Family,3.8,Standard,4.9,Laptop,43.5
+U0948,32.0,Male,30.9,36,25,Drama,,Premium,11.7,Laptop,99.5
+U0949,26.0,Female,24.1,30,25,Drama,3.7,Premium,9.8,Smart TV,76.4
+U0950,29.0,Male,38.5,29,25,Action,4.4,Premium,6.8,Smart TV,90.7
+U0951,22.0,Male,27.7,29,8,Action,3.7,Basic,6.8,Mobile,68.6
+U0952,28.0,Male,27.5,31,9,Action,4.0,Basic,6.5,Laptop,79.3
+U0953,45.0,Male,19.9,9,19,Drama,4.0,Basic,2.1,Smart TV,50.4
+U0954,26.0,Male,4.5,4,1,Comedy,2.6,Standard,2.0,Mobile,6.4
+U0955,49.0,Female,,11,16,Comedy,3.4,Standard,4.3,Smart TV,52.1
+U0956,40.0,Female,,12,20,Drama,3.6,Standard,5.1,Smart TV,46.1
+U0957,32.0,Female,8.4,14,24,Family,3.3,Basic,7.0,Smart TV,42.2
+U0958,15.0,Male,5.2,3,4,Drama,3.7,Basic,4.2,Laptop,19.2
+U0959,45.0,Male,14.0,15,24,Drama,4.0,Basic,5.6,Smart TV,52.3
+U0960,20.0,Male,25.5,27,8,Action,3.5,Standard,6.9,Smart TV,68.8
+U0961,51.0,Male,12.5,17,20,Family,3.4,Standard,4.5,Smart TV,39.6
+U0962,28.0,Male,17.2,34,2,Action,4.3,Standard,4.6,Laptop,47.7
+U0963,28.0,Male,27.8,39,8,Sci-Fi,3.1,Standard,6.9,Smart TV,73.4
+U0964,34.0,Male,2.1,1,1,Family,3.2,Basic,0.7,Mobile,1.8
+U0965,49.0,Female,12.9,16,24,Family,4.0,Premium,4.7,Smart TV,36.3
+U0966,38.0,Female,23.6,9,15,Drama,3.5,Standard,3.1,Mobile,40.3
+U0967,33.0,Female,2.5,1,3,Drama,2.9,Standard,0.6,Mobile,9.9
+U0968,18.0,Male,29.5,34,9,Action,3.7,Standard,6.9,Mobile,75.8
+U0969,41.0,Male,34.6,24,27,Thriller,4.0,Standard,12.8,Smart TV,100.0
+U0970,38.0,Female,36.5,26,25,Thriller,4.5,Premium,9.3,Laptop,88.2
+U0971,40.0,Female,12.4,2,22,Family,3.4,Standard,4.6,Smart TV,33.9
+U0972,35.0,Male,0.6,2,1,Comedy,3.5,Standard,1.4,Mobile,3.9
+U0973,26.0,Male,37.3,25,35,Sci-Fi,4.6,Premium,8.1,Smart TV,100.0
+U0974,34.0,Male,21.7,14,19,Family,3.8,Standard,3.3,Laptop,54.3
+U0975,25.0,Female,20.0,20,8,Action,3.0,Premium,7.6,Laptop,61.9
+U0976,14.0,Female,6.5,7,2,Comedy,4.2,Basic,1.5,Mobile,14.0
+U0977,45.0,Male,14.5,10,23,Family,3.4,Standard,3.8,Mobile,41.5
+U0978,26.0,Male,8.1,6,2,Comedy,3.4,Basic,0.2,Mobile,11.4
+U0979,38.0,Male,23.2,9,21,Drama,4.0,Standard,4.8,Smart TV,49.7
+U0980,18.0,Male,21.2,27,15,Action,3.4,Standard,6.8,Mobile,64.6
+U0981,20.0,Female,33.8,27,6,Sci-Fi,4.2,Premium,6.2,Laptop,73.5
+U0982,19.0,Male,22.5,22,1,Action,2.7,Standard,5.4,Mobile,51.6
+U0983,34.0,Female,16.7,10,20,Drama,3.8,Standard,4.3,Smart TV,53.6
+U0984,36.0,Male,14.5,13,25,Family,4.0,Basic,3.4,Smart TV,39.4
+U0985,46.0,Male,17.5,14,13,Drama,4.4,Standard,3.9,Mobile,51.2
+U0986,23.0,Female,31.5,23,21,Sci-Fi,4.0,Premium,8.5,Smart TV,84.8
+U0987,47.0,Male,32.9,32,30,Sci-Fi,3.6,Standard,10.7,Smart TV,100.0
+U0988,26.0,Male,4.1,3,4,Comedy,4.1,Basic,2.3,Mobile,16.4
+U0989,26.0,Female,19.5,26,10,Thriller,3.9,Premium,6.4,Laptop,57.3
+U0990,16.0,Male,25.6,20,8,Action,3.8,Standard,5.7,Laptop,61.3
+U0991,37.0,Female,5.8,3,2,Family,4.3,Basic,0.4,Mobile,8.7
+U0992,26.0,Other,6.5,0,4,Comedy,3.2,Basic,1.5,Mobile,13.9
+U0993,34.0,Male,31.2,20,29,Drama,4.6,Premium,7.8,Smart TV,76.6
+U0994,39.0,Female,28.8,31,31,Thriller,3.3,Premium,8.8,Mobile,79.8
+U0995,19.0,Male,6.7,3,4,Family,2.9,Basic,0.2,Mobile,3.8
+U0996,29.0,Female,3.6,2,3,Comedy,3.7,Basic,0.7,Mobile,6.8
+U0997,24.0,Female,22.3,22,7,Sci-Fi,4.5,Standard,5.9,Smart TV,61.1
+U0998,24.0,Female,11.9,1,2,Comedy,2.9,Basic,2.5,Mobile,24.1
+U0999,31.0,Female,23.0,32,2,Thriller,4.8,Standard,6.7,Smart TV,65.1
+U1000,22.0,Female,23.1,33,5,Action,3.7,Basic,5.7,Mobile,64.3
+U0643,19.0,Female,25.9,30,11,Thriller,3.2,Standard,6.7,Mobile,70.1
+U0763,27.0,Male,7.3,5,3,Family,3.8,Basic,2.0,Laptop,24.6
+U0910,26.0,Male,21.4,24,6,Action,,Basic,6.3,Mobile,59.8
+U0200,27.0,Female,10.1,25,8,Action,3.7,Premium,5.7,Mobile,44.3
+U0587,,Male,7.8,2,2,Drama,3.8,Basic,0.5,Mobile,12.5
+U0798,18.0,Female,,26,4,Action,3.1,Premium,5.5,Mobile,57.3
+U0653,45.0,Male,4.9,2,1,Comedy,3.2,Basic,2.3,Laptop,5.0
+U0756,28.0,Male,24.2,33,8,Action,4.0,Standard,6.5,Mobile,62.5
+U0417,51.0,Male,14.0,6,25,Drama,3.9,Standard,2.4,Smart TV,33.4
+U0499,42.0,Male,16.6,16,22,Family,4.1,Standard,3.9,Smart TV,56.6
