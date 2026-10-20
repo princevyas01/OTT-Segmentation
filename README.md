@@ -10,6 +10,19 @@ Modern Over-The-Top (OTT) platforms (e.g., Netflix, Amazon Prime Video, Disney+ 
 
 ---
 
+## 🖥️ Modern React Frontend Dashboard
+
+The frontend is built using **React 19 + Vite + Recharts + Lucide Icons**, engineered specifically for academic presentations:
+- **Clean Academic Styling**: Muted Oxford cobalt, forest sage, warm ochre, and slate neutral palette. **Zero neon, zero glowing borders, zero "vibe-coded" tropes**.
+- **Interactive Recharts Visualizations**: Dynamic watch time histogram, genre preferences by subscription tier, bivariate scatter plots, and Pearson correlation matrices.
+- **Multidimensional Centroid Radar Benchmark**: Normalized [0–100] spider chart illustrating high-dimensional separation across all 4 segments.
+- **2D & 3D PCA Projections**: Visualizing dimensionality reduction and cluster convexity ($PC_1: 56.6\%, PC_2: 16.5\%, PC_3: 14.1\%$).
+- **Live Examiner Sandbox**: Real-time interactive sliders allowing professors to test variations in $k$ or DBSCAN $\varepsilon$ and $MinPts$.
+- **Zero-Latency Client-Side Inference Engine**: Instant standardized Z-score transformation ($z = \frac{x - \mu}{\sigma}$) and Euclidean centroid distance calculation for real-time persona prediction.
+- **Viva Voce Defense Guide**: 5 curated examination questions and answers for Semester VI practical evaluations.
+
+---
+
 ## 🏗️ System Architecture & Workflow
 
 ```
@@ -106,65 +119,76 @@ Customer behavioral telemetry forms continuous Gaussian-like distributions rathe
 
 ---
 
-## 🖥️ Enhanced Frontend Dashboard (Streamlit & Plotly)
-
-Designed following clean, dignified academic guidelines (no neon, no vibrant hype colors, crisp neutral slate palette):
-
-- **Tab 1: Executive Brief & ML Pipeline**: Research abstract, pipeline architecture, and data preprocessing audit.
-- **Tab 2: Exploratory Data Analysis (EDA)**: Interactive Plotly distributions, bivariate scatter, violin plots, and correlation matrix.
-- **Tab 3: Segment Profiles & 3D PCA**: 4 persona dossiers, normalized centroid radar chart, and **interactive 2D / 3D PCA rotatable projection**.
-- **Tab 4: Model Comparison & Validation**: Mathematical formulas ($S, DB, CH$), Elbow & Silhouette curves, and **live parameter sandbox**.
-- **Tab 5: Targeted Recommendation Engine**: Segment strategy dossiers, individual user lookup with telemetry cards, and CSV export.
-- **Tab 6: Live Persona Classifier & Simulator**: Real-time user input simulator computing standardized Euclidean centroid distances and affinity probabilities.
-- **Tab 7: Academic Defense & Viva Q&A**: 5 comprehensive viva questions with rigorous academic answers, plus report download buttons.
-
----
-
 ## 🚀 Execution Guide
 
-### 1. Environment Setup
+### 1. Launch the React Web Application (Recommended)
 ```bash
-pip install -r requirements.txt
+cd frontend
+npm install
+npm run dev
 ```
+Open **`http://localhost:5173`** in your browser.
 
-### 2. Run Data Generation & Machine Learning Pipeline
+### 2. Optional: Run FastAPI Python REST Backend
+```bash
+python server.py
+```
+Starts API server on **`http://127.0.0.1:8000`** (Swagger docs available at `http://127.0.0.1:8000/docs`).
+
+### 3. Re-run Machine Learning Pipeline
 ```bash
 python generate_data.py   # Generates raw dataset data/ott_users.csv (N=1,010)
 python main.py            # Executes cleaning, scaling, K-Means, DBSCAN, and exports metrics
 python build_report.py    # Compiles standalone offline HTML report (report.html)
 ```
 
-### 3. Launch Interactive Academic Web Application
-```bash
-streamlit run app.py
-```
-Open **`http://localhost:8501`** in your browser.
-
 ---
 
 ## 📂 Repository Structure
 
 ```
-├── .streamlit/
-│   └── config.toml         # Professional academic theme configuration
+├── frontend/                     # React 19 + Vite Application
+│   ├── src/
+│   │   ├── components/           # Academic Tabbed Components
+│   │   │   ├── Header.jsx        # Institution branding & KPI cards
+│   │   │   ├── OverviewTab.jsx   # Abstract, pipeline flowchart & audit
+│   │   │   ├── EdaTab.jsx        # Recharts distributions, filters & CSV
+│   │   │   ├── SegmentsTab.jsx   # Persona dossiers, radar & PCA plots
+│   │   │   ├── ModelCompareTab.jsx# Mathematical metrics & live sandbox
+│   │   │   ├── RecommendationsTab.jsx# Strategy matrix & user lookup
+│   │   │   ├── ClassifierTab.jsx # Real-time what-if simulator
+│   │   │   └── VivaTab.jsx       # Viva defense Q&A & downloads
+│   │   ├── data/                 # Exported ML datasets & parameters
+│   │   │   ├── scalerParams.json # Mean, scale, and centroid weights
+│   │   │   ├── users.json        # 1,000 processed user records
+│   │   │   ├── results.json      # Evaluation metrics & sweep data
+│   │   │   ├── modelComparison.json# Benchmark comparison metrics
+│   │   │   └── recommendations.json# Segment-to-action dictionary
+│   │   ├── utils/
+│   │   │   └── mlEngine.js       # Client-side Z-score & Euclidean inference
+│   │   ├── App.jsx               # Navigation router
+│   │   └── index.css             # Neutral academic CSS design system
+│   ├── package.json
+│   └── vite.config.js
 ├── data/
-│   └── ott_users.csv       # Raw synthetic viewer telemetry dataset
+│   └── ott_users.csv             # Raw viewer telemetry dataset
 ├── outputs/
-│   ├── clustered_users.csv # Final dataset with cluster assignments
-│   ├── model_comparison.csv# K-Means vs DBSCAN formal metrics
-│   ├── recommendations.csv # Segment-to-recommendation mapping
-│   ├── results.json        # Full pipeline evaluation audit
-│   └── *.png               # Generated static visual figures
-├── app.py                  # Streamlit & Plotly interactive web application
-├── build_report.py         # Automated HTML report generator
-├── clustering.py           # K-Means & DBSCAN clustering implementations
-├── eda.py                  # Exploratory data analysis routines
-├── evaluation.py           # Silhouette, Davies-Bouldin, Calinski-Harabasz metrics
-├── generate_data.py        # Telemetry generator with intentional real-world noise
-├── main.py                 # Central execution pipeline orchestrator
-├── preprocessing.py        # Imputation, encoding, and Z-score scaling
-├── recommendation.py       # Centroid characterization and business mapping
-├── visualization.py        # PCA and profile plotting helpers
-├── requirements.txt        # Python package dependencies
-└── README.md               # Comprehensive project documentation
+│   ├── clustered_users.csv       # Labeled dataset with cluster assignments
+│   ├── model_comparison.csv      # K-Means vs DBSCAN formal metrics
+│   ├── recommendations.csv       # Persona-to-recommendation mapping
+│   ├── results.json              # Full pipeline evaluation audit
+│   └── *.png                     # Static visualization figures
+├── server.py                     # Optional FastAPI REST Backend
+├── app.py                        # Streamlit Python dashboard (alternative)
+├── build_report.py               # Standalone HTML report generator
+├── clustering.py                 # K-Means & DBSCAN clustering implementations
+├── eda.py                        # Exploratory data analysis routines
+├── evaluation.py                 # Silhouette, Davies-Bouldin, Calinski-Harabasz
+├── generate_data.py              # Telemetry generator with noise injection
+├── main.py                       # Central ML pipeline orchestrator
+├── preprocessing.py              # Imputation, encoding, and Z-score scaling
+├── recommendation.py             # Centroid characterization and business mapping
+├── visualization.py              # PCA and profile plotting helpers
+├── requirements.txt              # Python package dependencies
+└── README.md                     # Comprehensive academic project documentation
 ```
