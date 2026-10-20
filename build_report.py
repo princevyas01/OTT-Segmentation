@@ -72,7 +72,7 @@ font-family:Georgia;
 }}
 
 h2 {{
-color:#d9661f;
+color:#1e40af;
 border-bottom:1px solid #ddd;
 padding-bottom:5px;
 }}
@@ -92,7 +92,7 @@ border:1px solid #ddd;
 
 .k b {{
 font-size:26px;
-color:#d9661f;
+color:#1e40af;
 display:block;
 }}
 
@@ -119,7 +119,7 @@ padding:8px;
 }}
 
 th {{
-background:#d9661f;
+background:#1e40af;
 color:white;
 }}
 
@@ -133,7 +133,7 @@ color:white;
 <main>
 
 
-<p style="color:#d9661f;font-weight:bold;">
+<p style="color:#1e40af;font-weight:bold;">
 DSML MINI PROJECT
 </p>
 
