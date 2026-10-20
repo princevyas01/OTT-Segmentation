@@ -1,0 +1,139 @@
+{
+    "cleaning": {
+        "Rows Before Cleaning": 1010,
+        "Duplicate Rows": 10,
+        "Missing Values": {
+            "Age": 21,
+            "WatchTime": 21,
+            "AvgRating": 21
+        },
+        "Rows After Cleaning": 1000
+    },
+    "k_values": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "inertia": [
+        4978.469742240718,
+        3731.047092166994,
+        2724.2702287158572,
+        2545.583060559556,
+        2378.955589725048,
+        2244.2983277995495,
+        2133.8892179692753
+    ],
+    "silhouette": [
+        0.31956238071471943,
+        0.3170587358906573,
+        0.3700128202758955,
+        0.32226763008042564,
+        0.2654753324618397,
+        0.2277853406877208,
+        0.23002922836141942
+    ],
+    "dbscan_parameters": [
+        1.4,
+        15
+    ],
+    "model_comparison": [
+        {
+            "Algorithm": "K-Means",
+            "Clusters": 4,
+            "Noise": 0,
+            "Silhouette": 0.37,
+            "Davies-Bouldin": 1.095,
+            "Calinski-Harabasz": 642.9
+        },
+        {
+            "Algorithm": "DBSCAN",
+            "Clusters": 2,
+            "Noise": 59,
+            "Silhouette": 0.331,
+            "Davies-Bouldin": 0.937,
+            "Calinski-Harabasz": 428.8
+        }
+    ],
+    "cluster_profile": [
+        {
+            "Segment": "Casual Users",
+            "WatchTime": 5.58,
+            "MoviesWatched": 3.6,
+            "SeriesWatched": 2.44,
+            "SubCode": 0.21,
+            "EngagementScore": 12.94,
+            "Age": 27.08
+        },
+        {
+            "Segment": "Premium Users",
+            "WatchTime": 32.72,
+            "MoviesWatched": 27.48,
+            "SeriesWatched": 25.14,
+            "SubCode": 1.9,
+            "EngagementScore": 88.29,
+            "Age": 32.34
+        },
+        {
+            "Segment": "Action Movie Lovers",
+            "WatchTime": 21.26,
+            "MoviesWatched": 29.25,
+            "SeriesWatched": 7.57,
+            "SubCode": 1.0,
+            "EngagementScore": 59.11,
+            "Age": 23.86
+        },
+        {
+            "Segment": "Family Viewers",
+            "WatchTime": 16.34,
+            "MoviesWatched": 11.59,
+            "SeriesWatched": 19.7,
+            "SubCode": 0.86,
+            "EngagementScore": 44.64,
+            "Age": 39.24
+        }
+    ],
+    "segment_sizes": {
+        "Action Movie Lovers": 279,
+        "Family Viewers": 270,
+        "Casual Users": 251,
+        "Premium Users": 200
+    },
+    "recommendations": [
+        {
+            "Cluster": "Premium Users",
+            "movies": "Award-winning Originals, Early-access releases",
+            "series": "Exclusive Originals, International binge-worthy series",
+            "plan": "Retain Premium users with annual subscription offers and loyalty rewards."
+        },
+        {
+            "Cluster": "Casual Users",
+            "movies": "Short comedies, Trending movies",
+            "series": "Short episodes, Mobile-friendly content",
+            "plan": "Recommend Basic Plan with ads and offer discounted Standard trial."
+        },
+        {
+            "Cluster": "Action Movie Lovers",
+            "movies": "Action blockbusters, Thrillers, Sci-Fi franchises",
+            "series": "Crime & Spy series, Short-season Action shows",
+            "plan": "Upgrade Standard users with a Premium (4K) free trial."
+        },
+        {
+            "Cluster": "Family Viewers",
+            "movies": "Family dramas, Animation, Comedy movies",
+            "series": "Family dramas, Kids & Teen shows",
+            "plan": "Recommend Standard Family Plan with multiple profiles and parental controls."
+        }
+    ],
+    "sample_user": {
+        "UserID": "U0001",
+        "Segment": "Family Viewers",
+        "Favorite Genre": "Family",
+        "movies": "Family dramas, Animation, Comedy movies",
+        "series": "Family dramas, Kids & Teen shows",
+        "plan": "Recommend Standard Family Plan with multiple profiles and parental controls."
+    }
+}
