@@ -56,7 +56,12 @@ class UserPredictionInput(BaseModel):
     EngagementScore: float = 65.0
     SubCode: int = 1
 
+@app.get("/")
+def root():
+    return {"message": "OTT User Segmentation & Recommendation API", "docs": "/docs"}
+
 @app.get("/api/health")
+@app.get("/api/v1/health")
 def health():
     return {"status": "healthy", "model": "K-Means (k=4)", "total_users": len(df) if df is not None else 0}
 
@@ -115,4 +120,4 @@ def predict_user_segment(payload: UserPredictionInput):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run("server:app", host="127.0.0.1", port=8000, reload=True)
+    uvicorn.run("server:app", host="127.0.0.1", port=8000, reload=False)
