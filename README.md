@@ -133,7 +133,7 @@ Open **`http://localhost:5173`** in your browser.
 ```bash
 python server.py
 ```
-Starts API server on **`http://127.0.0.1:8000`** (Swagger docs available at `http://127.0.0.1:8000/docs`).
+Starts API server on **`http://127.0.0.1:8001`** (Swagger docs available at `http://127.0.0.1:8001/docs`).
 
 ### 3. Re-run Machine Learning Pipeline
 ```bash
